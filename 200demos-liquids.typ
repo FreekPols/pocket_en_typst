@@ -135,7 +135,7 @@ Twee ballonnen gekoppeld aan elkaar met een BIC pen en twee elastiekjes.
 Blaas een ballon op en leg een knoop in het uiteinde. Neem dan een breinaald met wat vet erop gesmeerd. Steek die voorzichtig door de onder- en bovenkant van de ballon waar het rubber wat dikker is en wat vet is gesmeerd. Doe alsof de ballon gaat knappen, maar tot verbazing van iedereen doet 'ie dat niet. Het rubber sluit zich netjes rond de breinaald (@ballonkebab) en de ballon blijft opgeblazen.]
 
 #let fig = [#figure(
-  image("files/kebabballon.jpg", width: 75%),
+  image("files/kebabballon.JPG", width: 75%),
   caption: [
 Een breinaald met wat vet erop gesmeerd, door een opgeblazen ballon heen gestoken.
 ],

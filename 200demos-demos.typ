@@ -9,22 +9,20 @@
   inset: 8pt,
   radius: 3pt,
 )[#align(center)[
-= Inleiding
+= Introduction
 ]]
-Stel je krijgt ineens een ander lokaal toegewezen, of je moet onverwachts invallen. Je hebt geen demonstratieapparatuur mee en bevindt jezelf in een theorielokaal en het kabinet is op een andere verdieping. _Wat kun je dan toch doen om een inspirerende les te geven met concrete voorbeelden?_
+Suppose you are suddenly assigned to a bare classroom far from the location of your nice laboratory classroom, or you have to substitute in another class without preparation... Or you are teaching at a school without facilities... _How can you still have a clear and exciting lesson?_ 
 
-We gaan uit van wat er in een standaard lokaal aanwezig is, tafels, bord, krijt, ramen, stoelen, leerlingen, en de inhoud van broekzakken en tassen van leerlingen. Kun je dan toch demonstraties doen? Ja, heel veel zelfs. Hier presenteren we meer dan 200 demonstraties die je met eenvoudige materialen (die vrijwel altijd voor de hand zijn) uitgevoerd kunnen worden.
-
-De aard van deze demonstraties varieert. Sommige zijn om iets experimenteel te bewijzen, maar de meeste zijn bedoeld om verschijnselen te laten zien en te koppelen aan vakbegrippen en om heen-en-weer te denken tussen verschijnselen en begrippen. Er zijn ook enkele rollenspelen voor als leerlingen moeilijk stil kunnen zitten, of juist slaperig zijn, of wanneer de docent gewoon even iets heel anders wil doen.
+This booklet presents a collection of small and quick demonstrations, which require no equipment beyond what is present in a common classroom (chalk, chairs, students, books, paper, student bags and common contents). The collection can be easily expanded. The nature of the demos is varied, some are to prove something, but most are to illustrate, visualize, or simulate. A few role-plays are included for when students are restless, cold, or sleepy, or for when their instructor needs a kick to get into a better mood after a late night of checking students' papers.
 
 #show figure: set block(breakable: breakableDefault)
 #figure(
   image("files/20250513_085023-820cbf7cb8eb3e0bd6c41f9f86f4c3b7.jpg", width: 80%),
   caption: [
-Je hebt weinig bijzondere materialen nodig om een aantal goede natuurkundedemonstraties te doen.
+You only need a handful of materials to conduct a series of proper physics demos
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_table>
 
 #box(
@@ -33,17 +31,18 @@ Je hebt weinig bijzondere materialen nodig om een aantal goede natuurkundedemons
   inset: 5pt,
   radius: 1pt,
 )[
-== Goed demonstreren <goede-demonstraties>
+== Proper demonstrations <goede-demonstraties>
 ]
-Wil je een demonstratie goed neerzetten, dan moet je een aantal dingen in de gaten houden. De didactische regels voor demonstraties zijn natuurlijk:
+If you want to set up a demonstration properly, you need to keep a few things in mind. The pedagogical rules for demonstrations are, of course:
 
-- Een duidelijk leerdoel, ook als je hoofddoel entertainment zou zijn, en dat is legitiem, dan moet het kenniselement toch duidelijk gearticuleerd worden\;
-- Betrokkenheid, dus activerende didactiek zoals individueel voorspellen wat er gebeurt, of in twee-tallen een verklaring zoeken, of een demo kiezen die leerlingen zelf als activiteit op de eigen tafel kunnen doen\;
-- Rekening houden met typische leerling denkbeelden (misconcepties) en die productief gebruiken in het onderwijsleergesprek\;
-- Details en hoofdzaken scheiden, bijvoorbeeld door details simpelweg weg te laten of uit te stellen tot na de hoofdboodschap\;
-- Zichtbaarheid (of hoorbaarheid of andere zintuigen).
+- A clear learning objective, even if your main goal is entertainment, which is legitimate, the knowledge element must still be clearly articulated\;
+- Engagement, so activating didactics such as individually predicting what will happen, or in pairs looking for an explanation, or choosing a demo that students can do themselves as an activity on their own table\;
+- Taking into account typical student misconceptions and using them productively in the teaching-learning conversation\;
+- Separating details and main points, for example by simply leaving out details or postponing them until after the main message\;
+- Visibility (or audibility or other senses).
 
-Je kunt je natuurlijk afvragen of dit soort pocketdemonstraties nog nodig zijn nu elk lokaal een beamer heeft en je de YouTube demo's zo van het internet kan plukken. We denken dat het zelf ervaren van natuurkunde via demo's en practicum met verschijnselen uit het dagelijks leven toch iets anders is dan tv kijken en dat zowel YouTube als pocketdemo's een eigen rol hebben in het leerproces.
+One could wonder whether these demonstrations and visualizations are still needed now that we have YouTube. I think that real demonstrations are still different from watching TV. It is important that students learn to recognize the physics phenomena in their own environment and realize that they themselves could actually perform the experiments.
+
 
 #box(
   width: 100%,
@@ -51,19 +50,19 @@ Je kunt je natuurlijk afvragen of dit soort pocketdemonstraties nog nodig zijn n
   inset: 5pt,
   radius: 1pt,
 )[
-== Nuttige voorwerpen in de klas <nuttige-voorwerpen-in-de-klas>
+== Useful objects in the classroom <nuttige-voorwerpen-in-de-klas>
 ]
-De standaardvoorwerpen in een kaal lokaal zijn pennen, papier, leerlingen, boeken, stoelen, tafels, zakdoeken, etc. Daarnaast is het handig altijd het volgende beschikbaar te hebben: een glas voor water, een rietje, een ballon, een kaars/theelichtje met aansteker/lucifers, een touwtje of schoenveter, een liniaal, een paar munten, enkele PVC-buisjes met verschillende lengte, een neodymium magneet, een laser pointer of zaklamp, een touwtje ...
+The objects always available in a bare classroom are pens, paper, students, books, chairs, tables, handkerchiefs, etc. In addition, it is useful to always have the following available: a glass for water, a straw, a balloon, a candle/tea light with lighter/matches, a string or shoelace, a ruler, a few coins, several PVC pipes of different lengths, a neodymium magnet, a laser pointer or flashlight, a string ...
 
-Heb je wat verzameld? Dan gaan we aan de slag!
+Have you collected some? Then let's get started!
 
 #show figure: set block(breakable: breakableDefault)
 #figure(
   image("files/sdfcover-e69804857071a8fa9eebd0b6b01d9950.jpg", width: 50%),
   caption: [
-Zoek je naar meer en gevorderdere natuurkundedemonstraties met uitgebreide tips voor de opstelling en interactie met de leerlingen? Kijk eens naar #link("https://interactivetextbooks.tudelft.nl/showthephysics")[Show the Physics] (https://interactivetextbooks.tudelft.nl/showthephysics), een online open access boek met 99 natuurkunde-demonstraties.
+Looking for more and more advanced physics demonstrations? Take a look at #link("https://interactivetextbooks.tudelft.nl/showthephysics")[Show the Physics] (https://interactivetextbooks.tudelft.nl/showthephysics), an online open access book with 99 physics demonstrations.
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_sdf>
 

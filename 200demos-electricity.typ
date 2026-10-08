@@ -35,7 +35,7 @@ columns: 2,
 “Apparatuur” en schakeling voor serie 1 & 2.
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <elekschakelingen>
 
 
@@ -82,7 +82,7 @@ De docent demonstreert vervolgens welke lampjes wel en niet branden in schakelin
   image("files/elekschakelingen2.png", width: 12cm),
   caption: [Twee schakelingen met lampjes.],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <elekschakelingen2>
 
 *Vraag 6:* @elekschakelingen2 links laat een lampje zien dat door twee draden is verbonden met een batterij. Geef aan of de volgende uitspraken waar of onwaar zijn:
@@ -166,7 +166,7 @@ Als natuurkundedocent heb je natuurlijk altijd een ballon in je zak. Even wrijve
         image("files/03-2StaticBalloonLR-b2abddbaa6b7c628ac9fbf42019ed09b.jpg", width: 7cm),
         caption: [De gewreven ballon trekt peper aan \ maar zout niet.],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <peperenzout>
     ]
   ],
@@ -217,7 +217,7 @@ columns: 2,
 Een paperclip van een afstand laten bewegen. 
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <vid_11>
 
 #pagebreak()

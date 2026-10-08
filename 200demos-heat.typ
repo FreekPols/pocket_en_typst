@@ -34,7 +34,7 @@ Je hebt twee halfvolle glazen water elk op de omgevingstemperatuur van 20 °C Nu
 Wat wordt het volume en de temperatuur?
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )
 
 
@@ -54,7 +54,7 @@ Laat de leerlingen blind stemmen (leerlingen doen hun ogen dicht en stemmen met 
 Verandert de dichtheid van de staaf als je de staaf doormidden snijdt?
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )
 
 *Vraag 2:* We hebben een metalen staaf die we in twee stukken snijden, X en Y. Het volume van X is twee keer zo veel als het volume van Y. De relatie tussen de dichtheden $ρ_x$ van $X$ en $ρ_y$ van $Y$ is:
@@ -185,7 +185,7 @@ columns: 2,
 Het aansteken van een lucifer met en zonder gaasje tussen de vlam en de lucifer. Door geleiding en daardoor spreiding van warmte gaat de lucifer niet aan. 
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <lcuifer>
 
 
@@ -210,7 +210,7 @@ Neem twee kaarsen, plaats ze met de onderkanten tegen elkaar en wikkel er een st
   image("files/kaarsenwip.jpg", width: 65%),
   caption: [Een kaarsenwip is eenvoudig te maken.],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )<fig_kaarsenwip>
 
 === Voorkomen dat zuurstof bij de vlam van een kaars komt <voorkomen-dat-zuurstof-bij-de-vlam-van-een-kaars-komt>
@@ -228,7 +228,7 @@ Laat een theelichtje drijven op water in een kom, steek de vlam aan en zet er ee
 Wat is de juiste verklaring voor het stijgende water?
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )
 
 === Stroming rond de vlam van een kaars <stroming-rond-de-vlam-van-een-kaars>
@@ -271,5 +271,5 @@ Adem uit met de mond wijd open en voel dat op je hand (warm), blaas vervolgens d
 Blazen door een mond met grote opening, wat voel je?
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )

@@ -7,9 +7,10 @@
   inset: 8pt,
   radius: 3pt,
 )[#align(center)[
-= Visualisaties in Geowetenschappen
+= Visualizations in earth sciences
 ]]
-Rollenspelen werken goed in het inzichtelijk maken van de onderlinge beweging van aarde, maan, zon, en sterren #cite(<Berg2000b>). Je kunt ze klassikaal doen, dan denk je als docent dat alles glashelder wordt. Je kunt ook een klassikale demonstratie voortzetten met enkele deelopdrachten in kleine groepjes en dan zal blijken dat toch nog niet alles begrepen was. Dus enkele voorbeelden klassikaal voordoen, en dan deelopdrachten laten doen in groepjes. Dit laatste heeft ruimte nodig, bijvoorbeeld op de gang of op het schoolplein, of een extra groot lokaal. Heeft dit nog voordelen in een tijd van computersimulaties? Jazeker, het heen-en-weer denken tussen verschillende representaties helpt bij begripsvorming en elke representatie heeft zijn eigen sterke en zwakke punten en spreekt een deel van de leerlingen populatie aan.
+Role-plays work well in simulating the motion of Earth, Moon, Sun, and stars. You can do them as demonstrations with some students performing the play in front of the class and then as a teacher you get this great feeling that everything must be perfectly clear. However, your students will need additional practice by role playing some tasks in small groups. Do you need this in the age of computer simulations? Yes, the back-and-forth thinking between different representations (role play, computer simulation, figures in the textbook) helps concept development and each representation has its strong and weak points and resonates with different students.
+
 
 #box(
   width: 100%,
@@ -17,27 +18,30 @@ Rollenspelen werken goed in het inzichtelijk maken van de onderlinge beweging va
   inset: 5pt,
   radius: 1pt,
 )[
-  == Rond de aarde
+  == Around the Earth
 ]
-=== Baan en rotatie van de aarde visualiseren <baan-en-rotatie-van-de-aarde-visualiseren>
+=== Visualizing revolution and rotation of the Earth <baan-en-rotatie-van-de-aarde-visualiseren>
 
-De tafel of de docent wordt de Zon, een leerling is de Aarde. Al roterend loopt de leerling in een baan om de docent. Laat de leerling niet 365x roteren.....
+The teacher becomes the Sun; a student is the Earth. The student "revolves" around the teacher while rotating once per 24 hours. Do not let the student rotate 365 times ....
 
-=== Rotatie van de zon visualiseren <rotatie-van-de-zon-visualiseren>
+=== Visualizing rotation of the Sun <rotatie-van-de-zon-visualiseren>
 
-Terwijl de aarde om de zon gaat, roteert de docent (zon) ook een beetje, zeg 12x per jaar of zoiets. We weten dit van de beweging van zonnevlekken. De periode van de rotatie blijkt afhankelijk van de breedtegraad. Bij de evenaar van de zon is de periode bijna 26 dagen terwijl op de 75ste breedtegraad de periode ruim 33 dagen is. Je zou het andersom verwachten bij een gasbol. Men is nog steeds op zoek naar de oorzaak (Wikipedia).
+While the Earth revolves around the Sun (one revolution per year), the Sun (teacher) is rotating a little also ... 12x per year or so. We know this from the "movement" of Sunspots. Somehow the Sun's rotation at the equator is faster than near the poles, the equator rotates in 25,67 days while at 75 degrees latitude it takes 33,40 days to go around. There are different definitions of rotation period resulting in different numerical values, see Wikipedia. So a teacher's rotation is different from a rotating Sun.
 
-=== Beweging van de maan visualiseren <beweging-van-de-maan-visualiseren>
+=== Visualizing movement of Moon <beweging-van-de-maan-visualiseren>
 
-Nu kun je een leerling toevoegen (Maan), die tijdens de omloop om de Zon rond de Aarde blijft gaan. Terwijl een leerling (Aarde) om de docent (Zon) heen loopt, gaat de andere leerling (Maan) om de Aarde heen, zo'n 13 keer gedurende 1 omloop van de Aarde om de zon.
+While one student (the Earth) revolves around the teacher (the Sun), another student (the Moon) revolves around the first student (the Earth), about 13 times per Earth revolution.
 
-=== Rotatie van de maan visualiseren <rotatie-van-de-maan-visualiseren>
 
-De docent fungeert als Aarde. Een leerling (Maan) beweegt er omheen, altijd met het gezicht (zelfde kant van de maan) naar Aarde gericht. Tijdens één rondgang om de aarde draait de maan dus 1x om z'n as. Je moet dit zien om te snappen wat dat betekent. Laat leerlingen kijken naar een zin in het leerboek over maanrotatie en dit dan vertalen in een bewegingsvoorschrift voor het rollenspel. Wat moet de maan doen?
+=== Visualizing rotation of the Moon <rotatie-van-de-maan-visualiseren>
 
-=== Visualisatie van seizoenen <visualisatie-van-seizoenen>
+The student (Moon) revolving around the Earth makes sure to keep his/her face towards the Earth......so the Moon rotates one time in one revolution around the Earth and thus always has its same face towards the Earth. You have to see this in the role play to understand what this same face to the Earth means for rotation. Now look at the sentences in the textbook about Moon rotation, let students translate these sentences in a prescription for the Moon's movement in the role play.
 
-Visualisatie van de seizoenen: het hoofd van de docent wordt de Zon, de ballon (eventueel met de breinaald als as) wordt de Aarde. Trek met een viltstift een lijn om het midden van de ballon, de evenaar. Schrijf een N en een Z voor Noordelijk een Zuidelijk halfrond, zie @fig_seizoenen. Laat de ballon een cirkelbaan afleggen rond de Zon (het hoofd van de docent). De as van de ballon staat niet loodrecht op het vlak van Aarde en Zon, maar onder een hoek (van 23,5 graden) en die as blijft gedurende de hele jaarlijkse baan precies dezelfde kant op wijzen, naar de poolster heel ver weg. In maart en september worden N en Z gelijk verlicht, het licht van de Zon valt loodrecht op de evenaar. Maar in juni wijst N naar de Zon en kun je de ballon roteren om zijn as, op elk moment van de dag valt er licht op de Noordpool. Het punt waar lichtstralen loodrecht op het aardoppervlak vallen is de noordelijke keerkring op 23,5 graden boven de evenaar. Omgekeerd in december. Waarom is het in de zomer warmer? Langere dag en de Zon staat hoger aan de hemel en geeft dan meer energie per m$""^2$. Het laatste is gemakkelijk te illustreren met een zaklantaarn of het lampje van een mobiele telefoon. Als je die schuin houdt (vergeleken met loodrecht op het papier), wordt de energie over een veel groter oppervlak verdeeld en is de reflectie minder fel. Het uitleggen in woorden is ingewikkeld en lastig lezen voor leerlingen, met de beelden van de ballon erbij, wordt de uitleg veel beter en sneller begrepen.
+=== Visualization of the seasons <visualisatie-van-seizoenen>
+
+The head of the teacher becomes the Sun. A balloon becomes the Earth. With a marker draw the equator on the balloon and write an N (Northern hemisphere) above it and an S (Southern hemisphere) below it, see @fig_seizoenen. The axis of the balloon is not perpendicular to the plane of the Earth's orbit, but tilted 23.5 degrees and the orientation of the axis is the same all year round, always pointed to the North Star. The teacher moves the balloon in a cirkel around his/her head while preserving the orientation of the axis. At one point of the cirkel the North pole will point to the sun and receive light throughout the daily 24 hour rotation, it is June, Summer at the North pole. 180 Degrees onward, now the South pole faces the Sun and receives light 24 hours, it is December, while the North pole is dark. The incidence of the Sun's light rays is perpendicular on the equator in March and in September. Between March and September the Sun's rays are perpendicular North of the equator and from September to March South of the equator. Why is it warmer in Summer? That is because there is longer daylight and the Sun is higher in the sky so its rays are closer to perpendicular on the surface of the Earth so there will be more solar energy per m$""^2$. This can be easily illustrated by a beam of a torch. When perpendicular to the table, there is a small circle of light, when tilted the area with light is much larger, but also less intense.
+
+
 
 #figure(
   subpar.grid(
@@ -46,7 +50,7 @@ Visualisatie van de seizoenen: het hoofd van de docent wordt de Zon, de ballon (
       caption: [
     ],
       kind: "figure",
-      supplement: [Figuur],
+      supplement: [Figure],
     ),
     figure(
       image("files/hfdst11seizoenenWinter.JPG", width: 7cm),
@@ -56,9 +60,9 @@ Visualisatie van de seizoenen: het hoofd van de docent wordt de Zon, de ballon (
       kind: "grid",
       supplement: [Grid],
     ),
-  caption: [Het visualiseren van de seizoenen met behulp van een ballon.],
+  caption: [Visualising the seasons by using a balloon.],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )<fig_seizoenen>
 
 
@@ -76,27 +80,28 @@ Met dezelfde ballon kun je het verschil uitleggen tussen een siderische (t.o.v. 
 )[
 == En verder..
 ]
-=== Parallax als afstandmeting <parallax-als-afstandmeting>
+=== Visualizing parallax for distance measurement <parallax-als-afstandmeting>
 
-Zelfde opstelling als bij de baan van aarde rond de zon. Kies een leerling op de voorste rij als nabije ster. Kies een leerling op de achterste rij als een verre ster. Kies nu twee posities van aarde 6 maanden van elkaar en vergelijk de hoek tussen de richtingen waarin je de ster van de twee posities ziet. Hoe verder weg de ster, hoe kleiner de hoek. Een waslijn of ander stuk touw helpt om de hoeken zichtbaar te maken @fig_parallax.
+Same arrangement as in revolution of the Earth. Take a student in the front row as (movie) star and another one in the back. Compare the position of the front row star as seen from the Earth in two positions 6 months apart (figure 1). There is quite a difference in direction of this star. Now look at the student star in the back. The difference in direction from the two Earth vantage points is already much smaller. What if the student was very far? This makes parallax as distance measurement visible! Use the meter stick and your arm to show the differences in angles/directions. If you have a string or a rope, so much clearer for your students, see  @fig_parallax.
 
 #show figure: set block(breakable: breakableDefault)
 #figure(
   image("files/ParallaxGeo.jpeg", width: 90%),
   caption: [
-Parallax visueel maken? Tekening Renante Embalzado
+Making Parallax visible. Drawing by Renante Embalzado
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )<fig_parallax>
 
-=== Schijnbare beweging van sterren in de loop van het jaar <schijnbare-beweging-van-sterren-in-de-loop-van-het-jaar>
+=== Apparent movement of the stars throughout the year <schijnbare-beweging-van-sterren-in-de-loop-van-het-jaar>
 
-Weer dezelfde opstelling. Terwijl de aarde haar baan om de zon aflegt, varieert het zicht op de verre sterrenhemel een beetje. Dichtbije sterren lijken ietsje te bewegen tegen de achtergrond van verre sterren.
+The same arrangement can be used to show the apparent motion of the stars throughout the year. While the Earth revolves, the view of the class (the nearby stars) changes a bit.
 
-=== Komeet <komeet>
+=== Comet <komeet>
 
-De zon is een lamp op tafel of een persoon in het midden van de klas. Er komt een komeet aan uit een willekeurige richting. Wat gebeurt er met de snelheid en richting van de komeet in de buurt van de zon? Laat andere leerlingen instructies geven aan de komeet hoe die moet versnellen/vertragen en/of van richting moet veranderen #cite(<showdefysica1>). Zou de komeet voor de zon langs kunnen gaan in plaats van er achterlangs? Waarom wel/niet?
+The Sun is a lamp on the table or take a student to play the Sun. A comet (played by another student) comes from some random direction towards the Sun. What will happen with the velocity and the direction as the comet approaches the Sun? Let the other students give directions to the student who plays the comet about accelerating/decelerating and changing direction #cite(<showdefysica1>). Let them also explain why. Any possibility that the comet would pass in front of the Sun and turn rather than turn behind the sun as seen from the comet? Why not?
+
 
 === Komeetinslag <komeetinslag>
 
@@ -109,20 +114,23 @@ Leg een hoopje zand, of bloem op een tafel. Laat een kogel, stuiterbal, of pingp
   inset: 5pt,
   radius: 1pt,
 )[
-== Tectonische platen visualiseren <tectonische-platen-visualiseren>
+== Visualizing plate tectonics <tectonische-platen-visualiseren>
 ]
-=== Botsing tussen twee dunne oceaanplaten <botsing-tussen-twee-dunne-oceaanplaten>
+=== Visualizing plate tectonics, collisions between thin ocean plates <botsing-tussen-twee-dunne-oceaanplaten>
 
-De oceaanplaten zijn dun, dus de ene plaat schuift makkelijk onder de andere plaat. Gebruik twee dunne boeken en laat die langzaam botsen met de ruggen tegen elkaar, een van de boeken schuift makkelijk onder de ander. De wrijving van echte tectonische platen wekt hitte op die uiteindelijk resulteert in het ontstaan van vulkanische eilanden.
 
-=== Botsing tussen een dunne oceaanplaat en een dikke continentale plaat <botsing-tussen-een-dunne-oceaanplaat-en-een-dikke-continentale-plaat>
+The plates are thin, one easily gets below the other. Use two thin books and make them collide slowly back-to- back, one easily slips below the other. The friction of real tectonic plates generates heat resulting in a volcanic island arc.
 
-Neem een dun en een dik boek en laat de ruggen langzaam botsen. Oceaanplaten hebben een hogere dichtheid, dus stel voor dat het dunne boek een hogere dichtheid heeft. Het dunne boek schuift onder het dikke boek. De wrijving van de echte platen wekt veel hitte op. Dit is de oorzaak van het vulkanisme van o.a. het Andesgebergte in Zuid-Amerika, het Cascadesgebergte in Noord-Amerika en de vulkanen langs de ruggengraat van Sumatra en Java in Indonesië.
 
-=== Met eilanden\; aanslibbing <met-eilanden-aanslibbing>
+=== Visualizing plate tectonics, collision between a thin ocean plate and a thick continental plate <botsing-tussen-een-dunne-oceaanplaat-en-een-dikke-continentale-plaat>
 
-Neem nu het dunne boek (oceaanplaat) met iets erop (een suikerklontje of iets dergelijks). Het dikke boek met hogere dichtheid schuift onder het dikke boek met lagere dichtheid (continentale plaat), maar het suikerklontje (net als een eiland) slibt aan bij de kust van de continentale plaat. Zulke aangeslibde voormalige eilanden hebben andere steensoorten dan het continent zelf. Voorbeelden zijn o.a. te vinden bij de westkust van Canada.
+Take a thin and a thick book and let their backs collide slowly. Ocean plates have a higher density, so imagine the thin book having a higher density. The thin book slips below the thick one. The friction of real plates generate lots of heat. This way we get the volcanism of the Andes in South America, the Cascades in North America and the volcanoes along the spines of Sumatra and Java in Indonesia.
 
-=== Botsing tussen twee dikke continentale platen <botsing-tussen-twee-dikke-continentale-platen>
 
-Neem twee dikke boeken, laat ze tegen elkaar aan schuiven maar nu met de open kant naar elkaar toe. De pagina's zullen gaan buigen, net als de Alpen en het Himalayagebergte toen ze werden gevormd door twee continenten die tegen elkaar aan het duwen waren.
+=== Visualizing plate tectonics with islands, accretion <met-eilanden-aanslibbing>
+
+Now take the thin book (ocean plate) with something on top of it (a cube of sugar, whatever), the denser thin book goes below the thicker and less dense book (continental plate), but the cube of sugar (like an island) accretes to the coast of the continental plate. Such accreted former islands and the continent they land on may have very different rock types.
+
+=== Visualizing plate tectonics, collision between two thick continental plates <botsing-tussen-twee-dikke-continentale-platen>
+
+Take two thick books, let them press against each other but now take the open sides. The pages will start folding, just like the Alps and the Himalayan Mountain ranges which were both formed by continents pushing each other.

@@ -4,7 +4,7 @@
 #figure(
   image("files/logo2.png", width: 6cm),
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )
 
 De Nederlandse Vereniging voor het Onderwijs in de Natuurwetenschappen is dé vakvereniging voor wie onderwijs in de natuurwetenschappen verzorgt. De NVON is een actieve vereniging van én voor alle docenten, toa’s en docenten-in-opleiding in de vakken scheikunde, natuurkunde, biologie, NLT, ANW, wetenschapsoriëntatie, techniek en technologie. De meeste leden werken in het voortgezet onderwijs, maar er zijn ook leden werkzaam in het basis-, beroeps- en hoger onderwijs. \

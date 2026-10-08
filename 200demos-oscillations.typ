@@ -49,7 +49,7 @@ columns: 2,
 Verander de massa aan het einde van de liniaal en luister, het verschil in frequentie is duidelijk te zien in slow-motion. 
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <vid_12>
 
 #v(1em)
@@ -59,7 +59,7 @@ image("files/rubband-e04d49dde11bf4373b35fadbf1177aac.jpg", width: 5.2cm) ,
  
 caption: [Verander de spanning en \ hoor een verschil in toon.],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_rubband>
 ]
 
@@ -130,9 +130,9 @@ subpar.grid(
     caption: []), <fig_haircombs2>,
 kind: "figure",
 columns: 2,
-supplement: [Figuur],
+supplement: [Figure],
 ),
   kind: "figure",
   caption: [Interferentie met kammen: leg twee kammen over elkaar heen en beweeg ze t.o.v. van elkaar.],
-  supplement: [Figuur],
+  supplement: [Figure],
 )<fig_haircombs>

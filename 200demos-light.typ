@@ -22,7 +22,7 @@ Een goede manier om een les over optica te beginnen is met een volledige donker 
 Figuren overgenomen uit #cite(<stead1980exploring>), met toestemming.
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )
 
 + Een kaars brandt overdag. Het licht van de kaars: \
@@ -38,7 +38,7 @@ D. Verspreidt tot het ergens tegenaan komt
 .
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )
 
 #set enum(start: 2)
@@ -57,7 +57,7 @@ D. Verspreidt tot het ergens tegenaan komt
 .
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )
 
 #set enum(start: 3)
@@ -108,7 +108,7 @@ Van het vorige experiment hebben we misschien geleerd dat iets met een wig vorm,
   image("files/20250513_121309-1d508998761f8bd3c7ca954df4e1232e.jpg", width: 8cm),
   caption: [Leg verschillende soorten doorzichtig \ papier op elkaar.],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )<fig_stapel>
 ]
     
@@ -126,7 +126,7 @@ Is er iemand die transparante, gekleurde snoeppapiertjes heeft? Gebruik een zakl
   image("files/04-5ColorAdditionLR-10e6ac868f6a0603cee90d1ffefc3565.jpg", width: 7cm),
   caption: [Verschillende Newtonschijven.],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )<fig_stapel>
 ]
     
@@ -150,7 +150,7 @@ Doe het licht van het lokaal uit. De leraar of een leerling staat tegen de muur 
 Heeft de tulp een andere kleur gekregen?
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_tulip>
 
 #pagebreak()
@@ -175,7 +175,7 @@ Als je toch een iets grotere spiegel hebt, laat een leerling die dan tegen de mu
 Kun je meer zien van je lichaam als je wegloopt van de spiegel?
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )
 
 === Visualisatie van Snell's terugkaatsingswet in drie dimensies <visualisatie-van-snells-terugkaatsingswet-in-drie-dimensies>
@@ -219,7 +219,7 @@ subpar.grid(
   ),  
   caption: [Natuurkundeplezier in het zwembad, (b) geplaatst met toestemming van The Physics Teacher.],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )<fig_pool>
 
 === Totale interne reflectie <totale-interne-reflectie>
@@ -238,7 +238,7 @@ subpar.grid(
         image("files/laser.jpeg", width: 6cm),
         caption: [Totale interne reflectie in een glas \ water met krijtstof om de laserstraal zichtbaar \ te maken. ],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <laserreflectie>
     ]
   ],
@@ -264,7 +264,7 @@ Wandel rond met een potlood schuin in een glas water, of in een vierkante contai
         image("files/20250513_110031-265ff32c49b4d9dc599516f2f3554098.jpg", width: 5.5cm),
         caption: [Een gebroken potlood of rietje?],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <potloodinwater>
     ]
   ],
@@ -284,7 +284,7 @@ Steek je vinger of een potlood in een rond glas water. Loop zwijgend de klas ron
 Beweeg de viltstift van voor naar achter en beschrijf wat je ziet.
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )
 
 // #pagebreak()
@@ -304,7 +304,7 @@ Beweeg de viltstift van voor naar achter en beschrijf wat je ziet.
         image("files/20250513_103744-bcf3d33e6fe4ee02331cc77a44683e04.jpg", width: 5.5cm),
         caption: [Wijzen de pijlen dezelfde kant op? \ Tsjechische bijdrage voor Physics on Stage, \ #cite(<Nugent2010>, form: "prose").],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <fig_arrow>
     ]
   ],
@@ -335,7 +335,7 @@ Beweeg de viltstift van voor naar achter en beschrijf wat je ziet.
         image("files/04-15ReflectionTrans-fc5d30a17bb5f696489e30c091529da4.jpg", width: 7.6cm),
         caption: [De natte plek ziet er licht uit, transmissie.],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <fig_trans>
     ]
   ],
@@ -365,7 +365,7 @@ Doe gel balletjes ’s nachts in het water en laat ze lekker opzwellen. Neem de 
 image("files/hfdst5GelBalletjes.JPG", width: 10cm) ,
 caption: [Gel balletjes in beide glazen, maar rechts zijn ze onzichtbaar doordat er water bijgedaan is. Alleen het blauw gekleurde balletje is zichtbaar.],
 kind: "figure",
-supplement: [Figuur],
+supplement: [Figure],
 ) <fig_gelballetjes>
 
 === Pupil, diafragma <pupil-diafragma>
@@ -384,7 +384,7 @@ Bovenstaande demonstratie illustreert ook het camera begrip scherpte-diepte. Lee
 image("files/plusglas.jpeg", width: 6cm) ,
 caption: [Heeft iemand een bril met \ plusglas? Beeld de TL buis op tafel af.],
 kind: "figure",
-supplement: [Figuur],
+supplement: [Figure],
 ) <fig_brilg>
 ]
 
@@ -417,7 +417,7 @@ Laat de leerlingen hun rechteroog sluiten en dan een pen op armslengte omhoog ho
 De pen, op armsafstand van de camera (het oog), staat precies op de rand van het batik schilderij. Wanneer de camera zo'n 6 cm naar links wordt verschoven (= afstand tussen de ogen), is de pen niet verschoven maar lijkt verschoven. Hoe verder de muur met batik, des te groter de verschuiving.
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_paral>
 
 === Toch scherp zien? <toch-scherp-zien>
@@ -440,7 +440,7 @@ Twee ogen zijn beter dan een, vooral in het zien van diepte en schatten van afst
 Afstand schatten met een of twee ogen.
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_depth>
 
 === Diepte zien 2 <diepte-zien-2>

@@ -12,7 +12,7 @@
         image("FILE", width: 4cm),
         caption: [CAPTION],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <LABEL>
     ]
   ],
@@ -67,5 +67,5 @@ image("files/qrcode_ELDJPqVrRZQ-50103670c9253f03265bc2fb0f890cf4.svg", width: 3c
     (https://pubs.aip.org/aapt/pte/article-abstract/47/7/410/275716/BUCKET-ON-THE-ROOF?redirectedFrom=PDF)
   ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_hewit>

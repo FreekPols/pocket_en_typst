@@ -45,7 +45,7 @@ Heeft iemand een mandarijntje bij zich? Zal het drijven of zinken? Waarom? Probe
 Een mandarijntje drijft en zinkt...
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_float>
 
 === Drijven op bolle en holle oppervlaktes <drijven-op-bolle-en-holle-oppervlaktes>
@@ -66,7 +66,7 @@ Vul een glas water tot onder de rand (hol oppervlak) en vul een glas water tot o
   supplement: [Grid],
   ),
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
   caption: [De ping-pong bal beweegt naar het hoogste punt van het wateroppervlak.]
 )<meniscus>
 
@@ -88,7 +88,7 @@ Vul een glas water tot onder de rand (hol oppervlak) en vul een glas water tot o
 Water blijft in het rietje zitten \ als je vinger de bovenkant afsluit.
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_float3>
 ]
 
@@ -125,7 +125,7 @@ Neem twee ballonnen, de een normaal opgeblazen, de andere nog klein. Vraag de hu
 Twee ballonnen gekoppeld aan elkaar met een BIC pen en twee elastiekjes.
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )
 
 
@@ -140,7 +140,7 @@ Blaas een ballon op en leg een knoop in het uiteinde. Neem dan een breinaald met
 Een breinaald met wat vet erop gesmeerd, door een opgeblazen ballon heen gestoken.
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <ballonkebab>
 ]
 
@@ -201,7 +201,7 @@ columns: 2,
 Een glas water lekt toch niet als je het op z'n kop houdt met een natte zakdoek eroverheen... 
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <vid_13>
 
 === Waterdruk en parabool <waterdruk-en-parabool>
@@ -270,7 +270,7 @@ Waarom is een druppel water rond en het oppervlak van een meer vlak? Dit is een 
 image("files/adhesie_pas-748e02555ed75fc6c58f5eb6e8bb8969.jpeg", width: 7cm) ,
 caption: [Maak een weegschaal met \ behulp van adhesie.],
 kind: "figure",
-supplement: [Figuur],
+supplement: [Figure],
 ) <fig_adhesie_pas>
 ]
 
@@ -289,7 +289,7 @@ supplement: [Figuur],
 Hoeveel munten passen er nog bij als \ het glas al 'helemaal' gevuld is?
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_munten>
 ]
 
@@ -313,7 +313,7 @@ Hoeveel munten passen er nog bij als \ het glas al 'helemaal' gevuld is?
 image("files/capillariteit.jpeg", width: 7cm) ,
 caption: [Capillaire werking in een glazen buisje.],
 kind: "figure",
-supplement: [Figuur],
+supplement: [Figure],
 ) <fig_capillariteit>
 ]
 
@@ -365,7 +365,7 @@ Steek een kaars aan. Als ik door een rietje blaas net rechts van de vlam, zal de
 image("files/07-27-2FlamePressure-3b5573ba73e4059b599f334a85e9404a.jpg", width: 60%), 
   caption: [Bernoulli laten zien.], 
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )<fig_bern3a>
 
 === Met een vel papier <met-een-vel-papier>
@@ -385,7 +385,7 @@ image("files/07-27-2FlamePressure-3b5573ba73e4059b599f334a85e9404a.jpg", width: 
         image("files/02-47-1Bernouilli1-e765bb7491f8880fe34e2949ac2fb731.JPG", width: 7.5cm),
         caption: [Het Bernoulli principe \ gedemonstreerd.],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <fig_bern1>
     ]
   ],
@@ -403,7 +403,7 @@ Ga verder met de vorige demonstratie, pak nog een vel A4, of scheur nog een pagi
 image("files/bernoulli.jpeg", width: 7.5cm) ,
 caption: [Zet twee bic pennen loodrecht op elkaar, \ met een in het water. Blaas met de andere pen \ en het water stijgt.],
 kind: "figure",
-supplement: [Figuur],
+supplement: [Figure],
 ) <fig_Bernoulli>
 ]
 

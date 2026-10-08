@@ -4,7 +4,7 @@
 #show: thesis_template.with(
   title: "Pocketdemo's",
 
-  subtitle: "200+ demo's met alledaagse materialen",
+  subtitle: "200+ demo's with daily materials",
 
   authors: (
     "Ed van den Berg & Freek Pols"

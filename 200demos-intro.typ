@@ -20,7 +20,7 @@ Dat is een triviale vraag, zeker voor lezers van dit boek. Naast dat demonstrere
   image("files/valsteen.jpg", width: 100%),
   caption: [Kleine en grote steen tegelijk laten vallen door de hand snel naar onder weg te trekken.],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <vallende_steen>
 ]
 
@@ -32,7 +32,7 @@ Dat is een triviale vraag, zeker voor lezers van dit boek. Naast dat demonstrere
   image("files/stapelboeken.png",width: 80%),
   caption: [Wrijvingskracht, meer boeken, grotere massa dus meer wrijving. Je _voelt_ de formule $F = mu m g$ als je de stapel duwt in vergelijking met dat ene boek.],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <stapelboeken>
 
 #v(1em)
@@ -57,7 +57,7 @@ Meer algemeen kunnen we stellen dat er in de natuurwetenschappen twee werelden z
   image("files/tweewerelden.png", width: 100%),
   caption: [Het heen-en-weer denken tussen de Wereld van Verschijnselen en de Wereld van Ideeën is de Wereld van de Wetenschapper. Hier een voorbeeld van zo veel mogelijk waterdruppels op een munt plaatsen: waarom zou het water er niet meteen afglijden?],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <tweewerelden>
 
 
@@ -160,7 +160,7 @@ De drempel naar voorspellen en redeneren kan sterk verlaagd worden door het gebr
   image("files/conceptcartoon.png", width: 60%),
   caption: [Een voorbeeld van een conceptcartoon, uit #cite(<Naylor2000>, form: "prose") met permissie.],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <conceptcartoon>
 
 #v(2em)

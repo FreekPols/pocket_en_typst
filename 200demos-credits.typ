@@ -9,7 +9,7 @@
   inset: 8pt,
   radius: 3pt,
 )[#align(center)[
-= Over dit boek
+= About this book
 ]]
 
 This book contains more than 200 demos collected and/or created by Ed van den Berg. The book has been further compiled and formatted by Freek Pols. A large part of the illustrations also comes from the collection of Ed van den Berg. New photos have been taken collectively. <index-omrrostl7u>\
@@ -23,7 +23,7 @@ This book has been dedicated to Daday van den Berg-Aguilar#super[†], wife, sou
   inset: 5pt,
   radius: 1pt,
 )[
-== Auteurs <auteurs>
+== Authors <auteurs>
 ]
 
 
@@ -56,7 +56,7 @@ image("files/auth_Freek-ee4cfa2db6b0b632f2f9c4ac94d142d1.jpg", width: 3cm) ,
   inset: 5pt,
   radius: 1pt,
 )[
-== Speciale dank <speciale-dank>
+== Special thanks <speciale-dank>
 ]
 Suzanne Schuurman edited the English version of Broekzakdemos into Dutch. 
 Iris Brouwer contributed to the creation of the photos by testing many of the demos live.

@@ -91,7 +91,7 @@ De docent is binnengekomen met een kopje koffie en een metalen lepeltje. Tik een
   image("files/panflute-4d2c5d67e8a63bb16d6e864c182f3e1f.jpg", width: 5.5cm) ,
   caption: [Afbeelding uit \ #cite(<pols2024show>, form: "prose").],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) 
 ]
 
@@ -134,5 +134,5 @@ Gebruik Phyphox of een vergelijkbaar programma. Probeer een bijna perfecte sinus
 Geluid opgenomen met de #link("https://phyphox.org/")[phyphox app].
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )

@@ -32,7 +32,7 @@ Zet een glas water (of ander object, breekbare objecten hebben de voorkeur) bove
 #let fig = [#figure(image("files/0c8d874cd9a586748a48f2f08791ad74.jpeg", width: 100%),
   caption: [Een vel papier en een glas of beker zijn altijd beschikbaar. Maak de demo spectaculair door pas vlakbij de rand een ruk te geven.],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )
 ]
 
@@ -72,7 +72,7 @@ Scheur een stukje papier zoals in @fig_tearpiece. Kan ik door aan beide uiteinde
         image("files/20250513_093759-220f9e785ba6c9705fa81f85836509bc.jpg", width: 9cm),
         caption: [Wat extra massa in het midden geeft voldoende \ traagheid om beide uiteinden tegelijk te scheuren.],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <fig_tearpiece>
     ]
   ],
@@ -101,7 +101,7 @@ columns: 2,
 Een bekende demo waarin het mes dieper in de appel gaat bij een klap op het lemmet. 
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <vid_5>
 
 
@@ -136,7 +136,7 @@ image("files/qrcode_RYFsPy8mUbI-a47014a080d52dd06e777b7a106e080e.svg", width: 3c
   image("files/906630c35a79c92c6ade16cc10bba827.jpeg", width: 50%),
   caption: [Het vinden van het zwaartepunt kun je doen (en voorspellen) met verschillende voorwerpen.],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <vid_8>
 
 === Laat je leerlingen het zwaartepunt voelen! <laat-je-leerlingen-het-voelen>
@@ -157,7 +157,7 @@ Zet leerlingen op een rij met de hakken tegen de muur (@fig_cm). Leen bankbiljet
 Het is niet mogelijk om het geld op te pakken met de hielen tegen de muur, in de foto staan de hielen nog niet helemaal tegen de muur.
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_cm>
 
 === Ongelijke leerlingen <ongelijke-leerlingen>
@@ -187,7 +187,7 @@ Houd een stoel schuin, nog schuiner... er is een punt waarop de stoel kantelt. N
         image("files/02-35CenterOfMass4LR-003ae33533b16324483e8e28adf5d30b.jpg", width: 8cm),
         caption: [David balanceert een hamer, het\ zwaartepunt moet onder de tafel zijn, niet ernaast.\ Foto gebruikt met toestemming.],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <fig_david>
     ]
   ],
@@ -225,7 +225,7 @@ columns: 2,
 Statische versus kinetische wrijving.
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <vid_9>
 
 === Verschil tussen statische en kinetische wrijving 2 <verschil-tussen-statische-en-kinetische-wrijving-2>
@@ -253,7 +253,7 @@ columns: 2,
 De wrijving hangt af van het de grootte van het aantal velletjes. 
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <vid_10>
 
 #pagebreak()
@@ -287,7 +287,7 @@ Hewitt's vraag (zie @fig_hewit) kan prachtig worden beantwoord met een demonstra
     (https://pubs.aip.org/aapt/pte/article-abstract/47/7/410/275716/BUCKET-ON-THE-ROOF?redirectedFrom=PDF)
   ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_hewit>
 
 
@@ -337,7 +337,7 @@ Leg een boek op de tafel en duw het over de tafel. Laat leerlingen het ook probe
         image("files/booksstacked-7f795235ae59094e86acecdb508e3d7a.jpg", width: 6.3cm),
         caption: [Wat gebeurt er wanneer je horizontaal \ duwt tegen een van de boeken? \ Maakt het uit waar dat boek is in de stapel?],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <fig_booksstacked>
     ]
   ],
@@ -378,7 +378,7 @@ Leg een bankbiljet of papier op twee viltstiften. Hoe moet je het papier of een 
         image("files/02-31StrengthOfProfi-c725a33a5236d677876e1ada2d7774c7.jpg", width: 6cm),
         caption: [Hoe kun je een briefgeld zo vouwen \ dat het een lading van veel munten kan dragen?],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <fig_fold>
     ]
   ],
@@ -410,7 +410,7 @@ Neem een pen of potlood. Druk eerst de scherpe punt (klein oppervlak) op je hand
         image("files/02-45EggThrow-86a4fb7bb8f9e412414c3897fbc2c0df.jpg", width: 7.3cm),
         caption: [Gooi een ongekookt ei in een handdoek of jas. \ Het breekt niet.],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <fig_throw>
     ]
   ],
@@ -489,7 +489,7 @@ columns: 2,
 Kunnen we onze handen versnellen met meer dan g? 
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <vid_1>
 
 === Kunnen we onze handen versnellen met meer dan g? Laat zien! <kunnen-we-onze-handen-versnellen-met-meer-dan-g-laat-zien>
@@ -515,7 +515,7 @@ Laat een blad papier vallen, dat valt langzaam en fladdert. Maak dan een prop, d
         image("files/boekval.jpg", width: 5.5cm),
         caption: [Vallen met $g$,\ langzamer of sneller?],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <fig_908>
     ]
   ],
@@ -554,7 +554,7 @@ supplement: [Grid],
 Zou luchtweerstand evenredig zijn met $v^2$ in plaats van $v$? Als dat zo zou zijn, dan komen de bakjes in de figuur niet tegelijk op de grond.
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )<bakjesval>
 
 
@@ -580,7 +580,7 @@ Een vallende ballon biedt veel mogelijkheden om luchtwrijving te onderzoeken. Je
         image("files/20250513_092443-92f87c74414e23d66ea83b9f12aa9bf0.jpg", width: 6cm),
         caption: [Vliegen is spelen met luchtweerstand.],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <fig_443>
     ]
   ],
@@ -615,7 +615,7 @@ Een vrij vallende munt en een op hetzelfde moment horizontaal weggeschoten munt 
 Buigen van de liniaal en laten gaan lanceert de ene munt horizontaal en laat de andere verticaal vallen.
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_1462>
 
 === En relatieve beweging <en-relatieve-beweging>
@@ -659,7 +659,7 @@ Als er dan ook bovenaan nog een gewicht zit (bv. bezem op zijn kop of hamer), da
         image("files/20250513_094959-f3512a8196bceea51dd58a4a2aef9b42.jpg", width: 5cm),
         caption: [Zo balanceren gaat goed, \ maar wat nu als je de hamer omdraait?],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <fig_959>
     ]
   ],
@@ -689,7 +689,7 @@ Nu je toch twee wc rollen hebt... leg ze op een hellinkje. Welke is het snelst b
         image("files/02-13RotationalInert-3e58c718d1431e3cd242eb7bb48b041b.jpeg", width: 6cm),
         caption: [Wat gebeurt er als je een ruk \ geeft aan elk van de toiletrollen ?],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <fig_ri2>
     ]
   ],
@@ -711,7 +711,7 @@ Nu je toch twee wc rollen hebt... leg ze op een hellinkje. Welke is het snelst b
         image("files/02-14-3RotationalIne-57f2bfd5465712acd650013652d4bc27.JPG", width: 6cm),
         caption: [Daday klaar om haar beker \ veilig te laten vallen.],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <fig_ri3>
     ]
   ],
@@ -737,7 +737,7 @@ columns: 2,
 Voor veiligheid een jas of kussen op de vloer. 
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <vid_7>
 
 #box(
@@ -755,7 +755,7 @@ Voor veiligheid een jas of kussen op de vloer.
   image("files/02-15CircularMotionE-47c1efb68bf14a96578a9bf2af94ef8c.jpg", width: 5cm),
   caption: [Demonstratie van cirkelbeweging met \ een draad, een pvc buis, een rubberen dop, \ en gewichtjes.],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 )<fig_cmen>
 ]
     
@@ -793,7 +793,7 @@ Vul een glas half met water, beweeg het glas in een
         image("files/20250602_114146-ca0a7cea6beb0e8da550754fa8bc5c2b.jpg", width: 7cm),
         caption: [Freek Pols voert de demo uit.],
         kind: "figure",
-        supplement: [Figuur],
+        supplement: [Figure],
       ) <fig_146>
     ]
   ],
@@ -829,7 +829,7 @@ Illustreer torsie met het openen van een deur (verticale as) of het roteren van 
 Kun je een deur openen als je duwt vlak bij het draaipunt van de deurklink?
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_deurkruk>
 
 === Torsie en afstand van as <torsie-en-afstand-van-as>
@@ -852,7 +852,7 @@ Neem een tas met boeken van een leerling. Houd de tas op armslengte en houd de t
 ],
   caption: [Maak het krachtmoment voelbaar.],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_gesterkt_arm>
 
 === Zittend optillen van gebogen en gestrekt been <zittend-optillen-van-gebogen-en-gestrekt-been>
@@ -883,7 +883,7 @@ Er zijn linialen met mooie gootjes, laat een knikker rollen en onderzoek het ver
 Laat een knikker van een liniaal afrollen in een gaatje in een papieren beker. Hoe ver schuift de beker?
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_ruler_marb>
 
 === Ballonraket en impulsbehoud <ballonraket-en-impulsbehoud>
@@ -913,7 +913,7 @@ columns: 2,
 Botsende munten met een kleine hoek. 
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <vid_132>
 
 #pagebreak()
@@ -940,5 +940,5 @@ Neem een krijtje (@fig_stress). Trek aan beide kanten, dat geeft Trekspanning (t
 Het verschil tussen trek- en schuifspanning.
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_stress>

@@ -80,7 +80,7 @@ Een van mijn lerarenopleiding studenten heeft een werkende elektrische motor gem
 Een simpele elektrische motor maken met een batterij, een koperdraad en een magneet.
 ],
   kind: "figure",
-  supplement: [Figuur],
+  supplement: [Figure],
 ) <fig_elekm>
 
 #pagebreak()

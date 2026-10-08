@@ -362,7 +362,7 @@ Een bron zoals een lamp, een vlam, of de zon zendt lichtstralen uit die rechtstr
 Doe gel balletjes ’s nachts in het water en laat ze lekker opzwellen. Neem de balletjes dan in een flesje mee naar school. Doe ze in een glas en loop er even mee de klas rond. Wat zien de leerlingen (@fig_gelballetjes)? Voeg dan water toe, wat zien de leerlingen dan (@fig_gelballetjes rechter glas)? Let op, er is rechts een gekleurd bolletje, dat is wel zichtbaar want dat absorbeert/reflecteert. De andere bolletjes zijn onzichtbaar want ze hebben dezelfde brekingsindex als water en doen dus niets anders met het licht dan water. Lichtstralen uit het water gaan gewoon rechtdoor in de bolletjes. Oefen dan met leerlingen over hoe ze verschillende voorwerpen in het lokaal zien. Een vinger …. Licht van buiten, of van de lampen in het plafond wordt gereflecteerd naar alle richtingen (alle leerlingen kunnen mijn vinger zien). Hoe komt het dan dat je kleuren ziet? Een rood gekleurd voorwerp absorbeert alle kleuren behalve rood dat gereflecteerd wordt. De mix van gereflecteerde kleuren bepaalt welke kleur je ziet. 
 
 #figure(
-image("files/hfdst5GelBalletjes.jpg", width: 10cm) ,
+image("files/hfdst5GelBalletjes.JPG", width: 10cm) ,
 caption: [Gel balletjes in beide glazen, maar rechts zijn ze onzichtbaar doordat er water bijgedaan is. Alleen het blauw gekleurde balletje is zichtbaar.],
 kind: "figure",
 supplement: [Figuur],

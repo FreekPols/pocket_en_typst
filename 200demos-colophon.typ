@@ -15,28 +15,28 @@
   stroke: none,
   [],
   [],
-  [*Auteurs:*], [Ed van den Berg & Freek Pols],
-  [*Vormgeving, omslag en binnenwerk*], [Freek Pols],
-  [*Druk*], [FIZZ marketing + communicatie www.fizz.nl],
-  [*Ontwerp omslag*], [Freek Pols],
+  [*Authors:*], [Ed van den Berg & Freek Pols],
+  [*Design, cover and layout*], [Freek Pols],
+  [*Publisher*], [FIZZ marketing + communicatie www.fizz.nl],
+  [*Cover design*], [Freek Pols],
   [],
   [],
   [*ISBN/EAN:*], [XXXX],
-  [*Bestelwijze:*], [
-    U kunt het boek bestellen via\
+  [*Order:*], [
+    You can order the book via\
     https://www.nvonwebshop.nl/
   ],
   [],
   [],
-  [*NVON-secretariaat*  ], [secretariaat\@nvon.nl],
-  [*Referentie*], [van den Berg, E. \& Pols, F. (2026). Pocketdemos. NVON.]
+  [*NVON-secretariat*  ], [secretariaat\@nvon.nl],
+  [*Reference*], [van den Berg, E. \& Pols, F. (2026). Pocketdemos. NVON.]
 )
 
 
 #v(12em)
 *© 2026 NVON*  \
 *Nederlandse Vereniging voor het Onderwijs in de Natuurwetenschappen*\
-Dit boek is uitgegeven op basis van een CC-BY licentie. Alles uit deze uitgave mag worden overgenomen, gekopieerd en verspreid, mits de bron wordt vermeld. De volledige tekst van de licentie is te vinden op https://creativecommons.org/licenses/by/4.0/legalcode.
+This book is published under a CC-BY license. Material from this publication may be reproduced, copied, and distributed, provided the source is acknowledged. The full text of the license can be found at https://creativecommons.org/licenses/by/4.0/legalcode.
 
 
 
@@ -60,7 +60,7 @@ grid(
    
   ]
 ) + [
-*Delft, Nederland 2026*]
+*Delft, The Netherlands 2026*]
 )
 
 

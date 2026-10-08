@@ -11,9 +11,10 @@
 )[#align(center)[
 = Over dit boek
 ]]
-Dit boek bevat meer dan 200 demo's verzameld en/of bedacht door Ed van den Berg. Het boek is verder aangevuld, samengesteld en opgemaakt door Freek Pols. Een groot deel van de illustraties komt ook uit de collectie van Ed van den Berg. Gezamenlijk zijn nieuwe foto's en video's gemaakt. <index-omrrostl7u>\
+
+This book contains more than 200 demos collected and/or created by Ed van den Berg. The book has been further compiled and formatted by Freek Pols. A large part of the illustrations also comes from the collection of Ed van den Berg. New photos have been taken collectively. <index-omrrostl7u>\
 \
-Dit boek is opgedragen aan Daday van den Berg-Aguilar#super[†], echtgenote, soulmate, en collega natuur-kundedocent. 1948-2025.
+This book has been dedicated to Daday van den Berg-Aguilar#super[†], wife, soulmate, and colleague in the field of physics education. 1948-2025.
 
 
 #box(
@@ -31,7 +32,7 @@ image("files/auth_Ed-5e2e5ab8189f6f24e1c2089183933aeb.jpg", width: 3cm) ,
 ) 
 ]
 
-#let body = [*Ed van den Berg* (1951) studeerde natuurkunde aan de Vrije Universiteit Amsterdam (VU) en promoveerde in Science Education aan de University of Iowa (VS). Hij werkte als docent/ontwikkelaar bij lerarenopleidingen in Indonesië, de Filipijnen en Nederland. Tot zijn pensioen was hij lector natuur- en techniekonderwijs bij het Kenniscentrum Domein Educatie en Onderwijskunde van de Hogeschool van Amsterdam en docent natuurkundedidactiek bij de lerarenopleiding van de Vrije Universiteit. Hij was onder andere betrokken bij de projecten Moderne Natuurkunde en Nieuwe Natuurkunde (NiNa) en publiceerde meer dan 400 artikelen in vaktijdschriften voor leraren in binnen- en buitenland.]
+#let body = [**Ed van den Berg** (1951) studied physics at the Vrije Universiteit Amsterdam (VU) and obtained his PhD in Science Education at the University of Iowa (USA). He worked as a teacher/developer in teacher training programs in Indonesia, the Philippines, and the Netherlands. Until recently, he was a teacher of science and technology education at the Knowledge Center for Education and Educational Sciences at the Hogeschool van Amsterdam and a lecturer in science didactics at the teacher training program of the Vrije Universiteit. He was involved in projects such as Modern Physics and New Physics and published more than 300 articles in professional journals for teachers both domestically and internationally.]
 
 #wrap-content(fig, body, align: right, column-gutter: 1em)
 
@@ -42,7 +43,8 @@ image("files/auth_Freek-ee4cfa2db6b0b632f2f9c4ac94d142d1.jpg", width: 3cm) ,
 ) 
 ]
 
-#let body = [*Freek Pols* (1986) werkte 10 jaar als docent natuurkunde op de middelbare school. Sinds 2019 is hij werkzaam als practicumcoördinator bij de opleiding Technische Natuurkunde van de TU Delft. In 2023 promoveerde hij op practicumonderwijs, specifiek op leren onderzoeken in natuurwetenschappen in het voortgezet onderwijs. Momenteel is hij universitair docent bij de afdeling Science \& Engineering Education aan de TU Delft. Zijn onderzoek richt zich nog steeds op de ontwikkeling van experimenteel natuurkundeonderwijs, maar nu met een focus op universitair niveau. Hij is ontwikkelaar van diverse open access natuurkundeboeken.]
+#let body = [**Freek Pols** (1986) worked for 10 years as a physics teacher. Since 2019, he has been working as a laboratory coordinator in the Technical Physics program at TU Delft. In 2023, he obtained his PhD on laboratory education, specifically on teaching scientific research. He is currently a university lecturer in the Department of Science & Engineering Education. His research continues to focus on the development of experimental physics education, but now with a focus on university level.
+]
 
 #wrap-content(fig, body, align: right, column-gutter: 1em)
 
@@ -56,7 +58,8 @@ image("files/auth_Freek-ee4cfa2db6b0b632f2f9c4ac94d142d1.jpg", width: 3cm) ,
 )[
 == Speciale dank <speciale-dank>
 ]
-Suzanne Schuurman heeft de bewerking gedaan van enkele Engelse versies van Pocketdemos naar het Nederlands (en vice versa). Iris Brouwer heeft bijgedragen aan het maken van de foto's door veel van de demo's live te testen. Aafke van den Berg en Ad Mooldijk hebben alle demonstraties gelezen en correcties en suggesties gegeven.
+Suzanne Schuurman edited the English version of Broekzakdemos into Dutch. 
+Iris Brouwer contributed to the creation of the photos by testing many of the demos live.
 
 
 

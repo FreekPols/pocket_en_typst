@@ -7,13 +7,14 @@
   supplement: [Figure],
 )
 
-De Nederlandse Vereniging voor het Onderwijs in de Natuurwetenschappen is dé vakvereniging voor wie onderwijs in de natuurwetenschappen verzorgt. De NVON is een actieve vereniging van én voor alle docenten, toa’s en docenten-in-opleiding in de vakken scheikunde, natuurkunde, biologie, NLT, ANW, wetenschapsoriëntatie, techniek en technologie. De meeste leden werken in het voortgezet onderwijs, maar er zijn ook leden werkzaam in het basis-, beroeps- en hoger onderwijs. \
+
+The Dutch Association for Science Education (NVON) is the professional association for those involved in teaching the natural sciences. The NVON is an active organization—by and for all teachers, laboratory technicians, and trainee teachers—covering subjects such as chemistry, physics, biology, NLT (Nature, Life, and Technology), ANW (General Natural Sciences), science orientation, and technology. While most members work in secondary education, the association also includes members from primary, vocational, and higher education.\
 \
-Eén van de doelstellingen van de NVON is de verbetering van de kwaliteit van het natuurwetenschappelijk onderwijs in Nederland en de bevordering van de kennisontwikkeling van zijn leden. NVON-leden delen vakinformatie, kennis en ervaring met elkaar: rechtstreeks uit de praktijk, vernieuwend, actueel en direct toepasbaar. De boeken van de NVON-reeks zijn daarvan een voorbeeld. Wil je meer weten over het lidmaatschap en de voordelen daarvan, kijk dan op onze website: #link("https://www.nvon.nl")[https://www.nvon.nl]\
-Ook kun je altijd informatie opvragen bij het secretariaat: secretariaat\@nvon.nl.\
+One of the objectives of the NVON is to improve the quality of science education in the Netherlands and to foster the professional development of its members. NVON members share subject-specific information, knowledge, and experience—drawing directly from classroom practice to provide innovative, up-to-date, and immediately applicable insights. The books in the NVON series are one such example. If you would like to learn more about membership and its benefits, please visit our website: #link("https://www.nvon.nl")[https://www.nvon.nl]\
+You can also always request information from the secretariat: secretariaat@nvon.nl.\
 \
-NVON-leden kunnen de boeken in de NVON-reeks met korting kopen via de webshop\ #link("https://www.nvonwebshop.nl")[https://www.nvonwebshop.nl]\
-*Eerder verschenen in de NVON-reeks:*
+NVON members can purchase books from the NVON series at a discount via the webshop.\ #link("https://www.nvonwebshop.nl")[https://www.nvonwebshop.nl]\
+*Previously published in the NVON series:*
 #set enum(numbering: "1.")
 1. Practicum, ... ha fijn! (uitverkocht)
 2. Evolutie in het voortgezet onderwijs (uitverkocht)

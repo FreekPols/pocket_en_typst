@@ -17,13 +17,13 @@
   inset: 5pt,
   radius: 1pt,
 )[
-  == Temperatuur
+  == Heat and temperature
 ]
-=== Temperatuurgevoel <temperatuurgevoel>
+=== Hand as thermometer <temperatuurgevoel>
 
-Sommige lokalen hebben warm en koud water. Als dat er niet is, even een leerling de klas uit sturen om 3 bekers water te halen: heet, lauw, koud. Dan leerlingen 1 vinger in het hete en 1 vinger in het koude water laten houden, en dan beide vingers in het lauwe water te brengen. Wat voelen ze?
+Some classrooms have hot and cold water. If yours does not have, then send a student to quickly to get 3 beakers of water, one hot, one lukewarm, and one cold. Then let some (or all!) students put one finger in hot water and one in cold and then transfer both fingers to lukewarm. What do you feel?
 
-=== Temperatuur optellen of niet? Intensieve versus extensieve variabelen <temperatuur-optellen-of-niet-intensieve-versus-extensieve-variabelen>
+=== Adding temperatures or not? Intensive versus extensive variables <temperatuur-optellen-of-niet-intensieve-versus-extensieve-variabelen>
 
 Je hebt twee halfvolle glazen water elk op de omgevingstemperatuur van 20 °C Nu giet je ze bij elkaar, de temperatuur wordt dan 20 °C, 40 °C, of iets minder dan 40 °C? Er zijn leerlingen die kiezen voor die 40 $""^o$C en die temperaturen optellen. Misschien toch even goed om die leerlingen te confronteren. Als temperaturen optelbaar waren, dan zou je water kunnen koken door 5 glazen van 20 °C bij elkaar te doen. Koken zonder energie! Deze demo kan ook een startpunt zijn voor discussie van intensieve en extensieve grootheden.
 
@@ -66,9 +66,9 @@ B.  $ρ_x = ρ_y$ \
 C.  $ρ_x = frac(1,2) ρ_y$\
 Dit zullen best veel leerlingen fout hebben. Je kunt vergelijkbare vragen  stellen over andere materiële eigenschappen, zoals soortelijke warmte en soortelijke weerstand. Welke natuurkundige eigenschappen kan je optellen? Massa, gewicht en volume (extensieve eigenschappen, afhankelijk van hoeveelheid). Welke eigenschappen kan je niet optellen? Temperatuur, dichtheid, materiële eigenschappen (intensieve eigenschappen, niet afhankelijk van hoeveelheid)?
 
-=== Warmte en wrijving <warmte-en-wrijving>
+=== Heat and friction <warmte-en-wrijving>
 
-Wrijf enkele keren stevig in je handen. Wat voel je? Rek een elastiekje een aantal keren achter elkaar uit en dan vlak boven de bovenlip de verhoogde temperatuur voelen, mechanische energie wordt omgezet in thermische energie.
+Rub your hands, what do you feel? Stretch a rubber band several times and hold it on your upper lip to feel the rise in temperature. Stretch a rubber band several times and then hold it just above your upper lip to feel the increased temperature, mechanical energy is converted into thermal energy.
 
 #pagebreak()
 #box(
@@ -77,23 +77,25 @@ Wrijf enkele keren stevig in je handen. Wat voel je? Rek een elastiekje een aant
   inset: 5pt,
   radius: 1pt,
 )[
-== Warmtetransport <warmtetransport>
+== Heattransport <warmtetransport>
 ]
-=== Geleiding <geleiding>
+=== Conduction <geleiding>
+Let students feel different materials, for example the metal of chairs, wood, plastics, textiles. How warm does it feel? Is it possible that these materials in the same classroom have a different temperature? If the temperature is really the same, the classroom environmental temperature, how come materials feel differently, metals feel cold, textile materials feel warm? The answer is conduction!
 
-Laat leerlingen verschillende materialen voelen, bijvoorbeeld metaal van de stoelen, hout, kunststof, textiel. Hoe warm voelt het? Kunnen die materialen in hetzelfde lokaal wel verschillende temperaturen hebben? Als de temperaturen dan toch gelijk zijn, waarom voelt het dan toch verschillend? Geleiding! Metalen nemen gemakkelijk warmte op van de vingers/handen want die warmte-energie verspreidt zich direct over het hele metalen voorwerp. Als je na het aanraken van het metaal met dezelfde vingers de bovenkant van je andere hand aanraakt, dan voelt het koud. Het oppervlak van de vingers is duidelijk afgekoeld door aanraking van metaal. Aanraken van hout voelt niet koud aan, hout geleidt slecht dus is er weinig energietransport van vinger naar hout.
+Metals take up heat easily from fingers/hands because that heat energy spreads directly over the entire metal object. If you touch the metal with the same fingers and then touch the top of your other hand, it feels cold. The surface of the fingers is clearly cooled by touching metal. Touching wood does not feel cold, wood conducts poorly so there is little energy transport from finger to wood.
 
-=== Stroming <stroming>
+=== Convection <stroming>
 
-Wat zijn de warmste plekken van ons lichaam? Wat de koudste, bijvoorbeeld 's winters buiten? Verklaring? Stroming, bloedsomloop, afstand tot slagaderen en tot het hart. Hoe zit dat bij vogels die lang met de poten in koud water staan te vissen, bijvoorbeeld reigers? De bloedbaan naar beneden ligt vlak naast de bloedbaan naar boven. Koud bloed dat uit het onderste deel van de poten terug naar boven stroomt, wordt verwarmd door warmte uit de bloedbaan naar beneden. Zo is het temperatuurverschil tussen de poten en het koude water minder groot en gaat er minder warmte "verloren".
+What are the hot spots of our body and what are the cold spots, for example when we are outside in winter? How do we explain that? Blood circulation, distance to the main arteries, convection! How is that for birds that stand with their legs in cold water for a long time, for example herons? The blood flow downwards is right next to the blood flow upwards. Cold blood that flows back up from the lower part of the legs is warmed by heat from the blood flow downwards. This way, the temperature difference between the legs and the cold water is smaller and less heat is "lost".
 
-=== Energietransport: geleiding, stroming, straling <energietransport-geleiding-stroming-straling>
+=== Energy transport: conduction, convection, evaporation, radiation <energietransport-geleiding-stroming-straling>
 
-Neem je hete kopje koffie van de lerarenkamer mee naar de klas. Hoe koelt de koffie af? _Wat is geleiding? Hoe kan ik dat voelen?_ Raak de zijkant van het kopje aan. _Wat is stroming? Hoe kan ik dat voelen?_ Houd je hand boven het kopje. _En hoe zit dat met verdamping? Hoe kan ik dat laten zien?_ Houd een koud voorwerp (zoals een schoteltje) recht boven het kopje en er zullen druppels vormen onder het schoteltje, doordat de verdampte koffie condenseert op het koudere voorwerp. _Wat is straling? Hoe kan ik dat voelen?_ Houd je hand een paar centimeter naast het kopje, of zelfs beter, leen een waterkoker van de personeelskamer of kantine, of gebruik een brandende kaars.
+Remember that "heat transport" can take place through conduction, convection, radiation, and evaporation (which is a special form of convection). Actually, heat transport is a wrong term as heat is defined as energy moving between systems, thus energy in transport. A better term might be transport of thermal energy. Anyway, a trivial experiment, bring your hot cup of coffee from the teachers' room to class. How does the coffee cool? _What is conduction? How can I feel that?_ Touch the sides of the cup. _What is convection? How can I feel that?_ Hold your hand above the cup. _What about evaporation?_ _How can I show that?_ Put a cold object (like a saucer) right above the cup, drops will form under it from evaporated coffee which condenses on the colder object. _What is radiation? How can I feel that?_ Put your hand a bit away from the cup, but perhaps better, borrow a water cooker from the teacher room.
 
-=== Geleiding, stroming, straling met een kaars <geleiding-stroming-straling-met-een-kaars>
 
-Nader de vlam van een kaars van bovenaf. Wat je voelt, is dat warmte van geleiding, stroming, of straling? Nu van opzij, kun je nu dichterbij komen? Is dat warmte van geleiding, stroming, of straling? Boven de vlam is vooral stroming van hete lucht al zal er ook straling zijn, je kunt die stroming zichtbaar maken door de vlam te projecteren op een scherm (een A4). De vorm van de vlam (langgerekt) geeft stroming aan. De warmte op enige afstand opzij is vooral afkomstig van straling.
+=== Conduction, convection, radiation with a match or lighter  <geleiding-stroming-straling-met-een-kaars>
+
+Approach the flame of a candle from above. What you feel is heat from conduction, convection, or radiation? Now from the side, can you get closer? Is that heat from conduction, convection, or radiation? Above the flame is mainly convection of hot air although there will also be radiation, you can make that convection visible by projecting the flame onto a screen (an A4). The shape of the flame (elongated) indicates convection. The heat at some distance to the side is mainly from radiation.
 
 === Geleiding met een kaars <geleiding-met-een-kaars>
 

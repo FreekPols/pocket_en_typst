@@ -10,6 +10,8 @@
 = Elektriciteit
 ]]
 
+Rather than mainly describing 2-minute demonstrations, we start this chapter with some more suggestions for teaching. We propose two series of diagnostic questions and demonstrations: series 1 with diagnostic questions 1 – 5 and demo 1 and series 2 with diagnostic questions 6 – 8 and demo 2. Series 1 is suitable for a first lesson on circuits. Series 2 can be inserted in the 2nd or 3rd lesson on circuits.
+
 Voor het onderdeel elektrische schakelingen wijken we af van de basisbenadering van dit boek waarin we ons beperken tot 2-minuten demo’s van dagelijkse verschijnselen en waarbij de docent zelf de didactische benadering verzint. Aanvullend aan de pocketdemo's  presenteren we twee series van diagnostische vragen en simpele demonstraties. Serie 1 kan als start in een eerste les over schakelingen. Serie 2 kan in een tweede of derde les worden ingevoegd. We kennen de hardnekkige pre- en misconcepties van leerlingen bij schakelingen. Die preconcepties zijn vaak al gevormd voordat leerlingen kennismaken met elektriciteitsonderwijs. Het doel van serie 1 en serie 2 is om leerlingen en docent bewust te maken van de ideeën (preconcepties) die leerlingen meebrengen en te starten met remediatie.
 
 
@@ -32,26 +34,26 @@ columns: 2,
 )
 ],
   caption: [
-“Apparatuur” en schakeling voor serie 1 & 2.
+Circuits composed of a light bulb and a battery..
 ],
   kind: "figure",
   supplement: [Figure],
 ) <elekschakelingen>
 
 
-De figuren laten een lampje en batterij zien en een connectie met een draad. In welke schakelingen zal het lampje branden? 
+The figure show a light bulb and a battery and a connection with a wire. In which circuits will the light bulb be on? 
 \
-*Vraag 1:*	Brandt het lampje in schakeling 1?    Waarom wel/niet?\
-*Vraag 2:*	Brandt het lampje in schakeling 2?    Waarom wel/niet?\
-*Vraag 3:*	Brandt het lampje in schakeling 3?    Waarom wel/niet?\
-*Vraag 4:*	Brandt het lampje in schakeling 4?    Waarom wel/niet?\
+*Question 1:*	Does circuit 1 light the bulb?     Why yes/no?\
+*Question 2:*	Does the light bulb in circuit 2 light up?    Why yes/no?\
+*Question 3:*	Does the light bulb in circuit 3 light up?    Why yes/no?\
+*Question 4:*	Does the light bulb in circuit 4 light up?    Why yes/no?\
 \
-*Vraag 5:*	Hieronder staan vier uitspraken over de manier waarop een batterij een lampje zou kunnen laten branden. Welke denk je dat de juiste is:
+*Question 5:*	Below are four statements about the way a battery can make a light bulb glow. Which one do you think is correct:
 
-+	Eén draad levert de stroom.
-+	Twee draden zijn nodig, in beide draden gaat de stroom van batterij naar lampje.
-+	Twee draden zijn nodig, in de ene draad gaat de stroom naar het lampje, in de andere draad terug naar de batterij. De terugstroom is kleiner dan de heenstroom want er wordt stroom verbruikt.
-+	Twee draden zijn nodig, heen en terug. In beide draden is de stroomsterkte gelijk.
++	 One wire delivers the current.
++	Two wires are needed, in both wires the current goes from the battery to the bulb.
++	Two wires are needed, in one wire the current goes from the battery to the bulb and in the other wire the current goes back to the battery. The magnitude of the current going to the bulb is greater than the current going back to the battery as some current is used.
++	Two wires are needed. In both wires the magnitude of the current is the same. 
 
 #box(
   width: 100%,
@@ -59,11 +61,11 @@ De figuren laten een lampje en batterij zien en een connectie met een draad. In 
   inset: 5pt,
   radius: 1pt,
 )[
-*Vakdidactiek:* #cite(<Osborne1983>, form:"prose") vond consistente misconcepties onder groep 7 en 8 basisschool leerlingen die nog geen lessen hadden gehad over elektriciteit. Hij kwam 4 modellen tegen: zie de antwoorden A t/m D hierboven. Deze modellen steken later in het elektriciteitsonderwijs nog regelmatig de kop op, bijvoorbeeld een leerling die na 4 of 5 lessen ineens bedacht dat in een gewone lampjes schakeling protonen van + naar – gaan en elektronen van – naar +.
+*Subject pedagogy:* #cite(<Osborne1983>, form:"prose") found consistent misconceptions among 5th and 6th grade elementary children who had not yet been exposed to lessons about electricity. He encountered 4 models, see the answers to A, B, C, and D above. During a series of lessons on electricity these models are likely to surface. For example, Ed encountered a student in grade 9 who after 4 or 5 lessons on circuits suddenly proposed that in figure 3 protons go from + to – and electrons go from – to +. That looks very much like the clashing currents model B. 
 ]
 
-*Demo 1. Simpele lampjesschakeling 1*
-De docent demonstreert vervolgens welke lampjes wel en niet branden in schakelingen 1 – 4. Een meer tijdrovend en vaak onduidelijker alternatief is om de leerlingen dit zelf te laten doen. Tenslotte tekent de docent de inwendige schakeling in een gloeilamp en concludeert wat er nodig is om een lampje te laten branden. 
+*Demo 1. Simple circuit 1*
+The teacher shows which bulbs lights and which ones do not in circuits 1 – 4. A more time consuming and often also less clear alternative is to have the students test these circuits themselves in a lab exercise. At the end the teacher also draws the internal connections inside the light bulb and summarizes what is needed to make a bulb light. 
 
 #box(
   width: 100%,
@@ -71,7 +73,7 @@ De docent demonstreert vervolgens welke lampjes wel en niet branden in schakelin
   inset: 5pt,
   radius: 1pt,
 )[
-*Vakdidactiek:* Daarmee denk je dat het nu allemaal wel duidelijk zal zijn, maar leerlingen hebben in het begin een verhaal nodig om deze kennis te onderbouwen. Dat verhaal zit in de microscopische weergave bij de PhET simulatie. Microscopische bolletjes (elektronen) gaan door de draden, ze pikken energie op in de batterij en geven die af bij een lampje of apparaat en keren dan terug bij de batterij voor een nieuwe lading energie. Er is fysisch veel in te brengen tegen dit simpele model en dat is prachtig verwoord in een artikel van #cite(<Sefton2002>, form:"prose"), maar dit simpele PhET model werkt in elektriciteitsonderwijs voor beginners. Dus laat hier de PhET simulatie met 1 lampje zien.
+*Subject pedagogy:* Then the teacher might think that everything will be clear to the students, but students need a story to integrate this knowledge. That story is provided by the microscopic representation in the PhET simulation. Microscopic spheres (electrons) go through the wires. They pick up energy in the battery and deliver that to the light bulb and then return to the battery for another load of energy. There are many physics arguments against this microscopic representation, and these are very well formulated in an excellent article by #cite(<Sefton2002>, form:"prose").  However, the simple PhET carrier model works very well in a first encounter with electric circuits, it is a scaffold to be replaced later on by a more sophisticated model at the senior secondary or even tertiary level. So do show the PhET simulations.
 ]
 
 #v(2em)
@@ -80,34 +82,36 @@ De docent demonstreert vervolgens welke lampjes wel en niet branden in schakelin
 
 #figure(
   image("files/elekschakelingen2.png", width: 12cm),
-  caption: [Twee schakelingen met lampjes.],
+  caption: [Two bulbs in series.],
   kind: "figure",
   supplement: [Figure],
 ) <elekschakelingen2>
 
-*Vraag 6:* @elekschakelingen2 links laat een lampje zien dat door twee draden is verbonden met een batterij. Geef aan of de volgende uitspraken waar of onwaar zijn:
-+	De stroom door punt X is groter dan die door punt Y.
-+	De stroom door punt X is kleiner dan die door punt Y.
-+	De stroom door beide punten is gelijk.
+*Question 6:* @elekschakelingen2  shows a bulb connected by two wires with a battery. Which of the following statements is correct? 
++	The current through point X is greater than the current through point Y.
++	The current through point X is smaller than the current through point Y.
++	The current through both points is equal.
 \
-*Vraag 7:* @elekschakelingen2 rechts laat twee identieke lampjes zien die achter elkaar geschakeld zijn (in serie). Vergelijk de lichtsterkte van lampje 1 in @elekschakelingen2 links met lampje 2 in @elekschakelingen2 rechts.
-+	Lampje 1 schijnt feller dan lampje 2.
-+	Lampje 1 schijnt even fel als lampje 2.
-+	Lampje 1 schijnt minder fel dan lampje 2.
+*Question 7:* @elekschakelingen2 shows two identical bulbs in series. Compare the brightness of bulb 1 in @elekschakelingen2 with the brightness of bulb 2 in @elekschakelingen2.
+
++	Bulb 1 shines brighter than bulb 2. 
++ The brightness of both bulbs is the same.
++ Bulb 1 shines less bright than bulb 2.
+
 \
-*Vraag 8:* Vergelijk de lichtsterkte van deze twee identieke lampjes 2 en 3 in @elekschakelingen2 rechts:
-+	Lampje 2 schijnt feller dan lampje 3.
-+	Lampjes 2 & 3 schijnen even fel.
-+	Lampje 3 schijnt feller dan lampje 2.
+*Question 8:* Compare the brightness of the identical bulbs 2 and @elekschakelingen2:
++	Bulb 2 shines brighter than bulb 3.
++	Bulbs 2 & 3 shine equally bright.
++	Bulb 3 shines brighter than bulb 2.
 \
-*Vraag 9* Vergelijk de stroomsterkte I2 door lampje 2 met I3 door lampje 3 in @elekschakelingen2 rechts:
+*Question 9* Compare current I2 through bulb 2 with I3 through bulb 3 in @elekschakelingen2 rechts:
 +	$I_2 > I_3$
 +	$I_2 = I_3$
 +	$I_2 < I_3$
 \
-*Demo 2. Simpele lampjesschakeling* De demo kan uitgevoerd wordenmet losse draden en lampjes en hulp van leerlingen bij het vasthouden, het kan natuurlijk ook met fittingen voor de lampjes. Denk eraan de lampjes ook even ter verwisselen om te laten zien dat dat niets uitmaakt.
+*Demo 2. Simple circuits* Demonstrate the simple circuits of figures 4 & 5 to verify/falsify the student predictions. That can be done with loose wires and bulbs and assistance of students to hold them, but -of course- one can also use fittings and battery holders for convenience. Don’t forget to exchange the bulbs in figure 5 to show that this does not make a difference, a clear falsification of model C.
 
-Leerlingen hebben de felheid van de lampjes in serie voorspeld. Nu wordt die gedemonstreerd en controleert de docent in een demonstratie de antwoorden op de vragen. Het is natuurlijk ook mogelijk dit als practicum te doen of zelfs als leerling simulaties met PhET. 
+Students have predicted the brightness of the bulbs in series. Now the teacher demonstrates the answers to questions 5 – 8. It is also possible to do this as a student laboratory with real bulbs, or in PhET simulations.
 
 #box(
   width: 100%,
@@ -115,19 +119,18 @@ Leerlingen hebben de felheid van de lampjes in serie voorspeld. Nu wordt die ged
   inset: 5pt,
   radius: 1pt,
 )[
-*Vakdidactiek:* Het antwoord op vraag 6 kan zonder ampèremeter niet gedemonstreerd worden, maar leerlingen die denken dat de stroom op gebruikt wordt zullen bij vraag 8 voorspeld hebben dat één van de twee lampjes (2 of 3) minder fel is. Of dat lampje 2 of 3 is hangt af van welke stroomrichting ze bedacht hebben. Als ze denken van + naar – dan zal lampje 3 minder fel zijn, als ze denken van – naar + (elektronenstroom) dan zal lampje 2 minder fel zijn.
+*Subject pedagogy:*  The answer to question 8 cannot be demonstrated without an ampere meter. But students with a subconscious model C might have predicted that one of the two bulbs (2 or 3) will be less bright. Whether that is bulb 2 or bulb 3 depends on the direction of the current in the student’s mind. If a student thinks from + to – then bulb 3 would be less bright, of the student thinks from – to + then a model C student would predict bulb 2 to be less bright. 
 
-In de Annenberg Private Universe video serie uit eind jaren ’80 kregen MIT studenten in de parade op weg naar hun Bachelor diploma uitreiking een batterij, twee draden en een fietslampje. De opdracht was het lampje te laten branden. Ze hadden grote moeite de juiste connecties te vinden. Een van hen verklaart zijn problemen: “because I am a mechanical  engineer”).
+In the Annenberg Private Universe video series from the late 1980s MIT students during the procession to their graduation were given a battery, two wires and a bulb. The question was to show how they would light the bulb. Students were confident they could do this, but but then turned out to have great difficulty.  One of them provided an excuse: “I am a mechanical engineer”.
 ]
 
-Vragen 7 en 8 kunnen met de lampjes gedemonstreerd worden. Laat een leerling even helpen met het vasthouden van de connecties. Vraag 9 moet met een ampèremeter.
+Questions 7 and 8 can be demonstrated with the bulbs. Let a student help with holding the connections. Question 9 needs an ampèremeter.
 
-
-Eventueel verder met PhET demo’s op de beamer:
-+	2 identieke lampjes in parallel
-+	2 identieke lampjes in serie
-+	Ongelijke lampjes parallel
-+	Ongelijke lampjes serie
+One could continue the lesson with PhET demo’s on the beamer (if available): 
+• 2 identical bulbs in parallel
+• Unequal bulbs parallel (230V bulbs would be more spectacular, but one would need a more safe circuit board) 
+• spectaculairder met 230V lampen
+• Ongelijke lampjes serie, idem
 
 
 
@@ -192,7 +195,7 @@ Plastic rietjes zijn vooralsnog in veel personeelskamers te vinden. Wrijven met 
 ]
 === Wet van Coulomb <wet-van-coulomb>
 
-Vraag eens hoeveel lading er op zo'n rietje of pen zou kunnen zitten. Vanwege de grote evenredigheidsfactor ($9 "x"10^9$) in de wet van Coulomb, moeten die ladingen toch wel heel klein zijn, zeker kleiner dan $10^(-8) upright(C)$. Stel $q_1 med = q_2 med = 10^(-8) upright(C)$, dan $F_(c o u l o m b) med = 9 dot.op 10^9 dot.op 10^(-8) dot.op frac(10^(-8), 10^(-4)) upright(N)$, en stel de onderlinge afstand $1 upright(c m)$, dan is $F_(c o u l o m b)$ in de orde $1 \/ 100 space upright(n e w t o n)$. Maar $10^(-8) upright(C)$ is nog altijd wel $6 dot.op 10^(10)$ elektronen.
+Question eens hoeveel lading er op zo'n rietje of pen zou kunnen zitten. Vanwege de grote evenredigheidsfactor ($9 "x"10^9$) in de wet van Coulomb, moeten die ladingen toch wel heel klein zijn, zeker kleiner dan $10^(-8) upright(C)$. Stel $q_1 med = q_2 med = 10^(-8) upright(C)$, dan $F_(c o u l o m b) med = 9 dot.op 10^9 dot.op 10^(-8) dot.op frac(10^(-8), 10^(-4)) upright(N)$, en stel de onderlinge afstand $1 upright(c m)$, dan is $F_(c o u l o m b)$ in de orde $1 \/ 100 space upright(n e w t o n)$. Maar $10^(-8) upright(C)$ is nog altijd wel $6 dot.op 10^(10)$ elektronen.
 
 === Watermoleculen zijn dipolen <watermoleculen-zijn-dipolen>
 
@@ -237,7 +240,7 @@ Doe het licht aan, het effect is onmiddellijk. Doe de kraan open, het duurt even
 
 Leeg klaslokaal? Neem een batterij, een klein lampje in een houder en een paar draadjes mee, dat past allemaal in je zak. Probeer vervolgens in een interactie met de klas welke materialen elektriciteit geleiden en welke niet. Leerlingen kunnen verbaasd worden met de kern van een potlood.
 
-Haal het lampje uit de houder en gebruik alleen de losse draadjes, de batterij en het lampje. Wie kan zorgen dat het lampje licht geeft? Daag de leerlingen uit en laat ze eerst zelf het contact maken. Loop rond in de klas om de resultaten te bekijken. Sommige leerlingen gebruiken maar een draadje om een circuit te maken, andere hebben misschien moeite met waar de draadjes aan het lampje moeten worden vastgemaakt. Dit is niet gek, zelfs geslaagde studenten van MIT hadden hier moeite mee. Er is vast een leerling die meteen wilde laten zien wat hij/zij kan, maar die je even hebt tegengehouden zodat de rest het kon proberen. Vraag deze leerlingen om te laten zien hoe ze het voor elkaar hebben gekregen, en om het circuit op het bord te tekenen.
+Haal het lampje uit de houder en gebruik alleen de losse draadjes, de batterij en het lampje. Wie kan zorgen dat het lampje licht geeft? Daag de leerlingen uit en laat ze eerst zelf het contact maken. Loop rond in de klas om de resultaten te bekijken. Sommige leerlingen gebruiken maar een draadje om een circuit te maken, andere hebben misschien moeite met waar de draadjes aan het lampje moeten worden vastgemaakt. Dit is niet gek, zelfs geslaagde studenten van MIT hadden hier moeite mee. Er is vast een leerling die meteen wilde laten zien wat hij/zij kan, maar die je even hebt tegengehouden zodat de rest het kon proberen. Question deze leerlingen om te laten zien hoe ze het voor elkaar hebben gekregen, en om het circuit op het bord te tekenen.
 
 === Schakelingen met PhET <schakelingen-met-phet>
 

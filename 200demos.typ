@@ -2,9 +2,9 @@
 #import "src/main.typ": thesis_template
 
 #show: thesis_template.with(
-  title: "Pocketdemo's",
+  title: "Pocketdemos",
 
-  subtitle: "200+ demo's with daily materials",
+  subtitle: "200+ demos with daily materials",
 
   authors: (
     "Ed van den Berg & Freek Pols"

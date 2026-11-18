@@ -1,7 +1,7 @@
 #import "myst-imports.typ": *
 #set page(numbering: none)
 #align(center)[
-  #text(size: 21pt, weight: "bold")[Pocketdemo's]
+  #text(size: 21pt, weight: "bold")[Pocketdemos]
 ]
 
 #v(4em)

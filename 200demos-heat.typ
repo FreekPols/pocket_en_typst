@@ -8,7 +8,7 @@
   inset: 8pt,
   radius: 3pt,
 )[#align(center)[
-= Warmte en temperatuur
+= Heat and temperature
 ]]
 
 #box(

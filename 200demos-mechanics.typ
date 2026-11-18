@@ -9,9 +9,9 @@
   inset: 8pt,
   radius: 3pt,
 )[#align(center)[
-= Mechanica
+= Mechanics
 ]]
-Er zijn natuurlijk een heleboel grote demonstraties en practica die je rond het onderwerp mechanica kunt doen. Maar het hebben van een breed palet aan pockedemo's kan helpen bij het uitleggen van de verschillende concepten. 
+There are of course a lot of large demonstrations and practicals that you can do around the subject of mechanics. But having a wide range of pocketdemos can help in explaining the different concepts.
 
 #box(
   width: 100%,
@@ -19,18 +19,19 @@ Er zijn natuurlijk een heleboel grote demonstraties en practica die je rond het 
   inset: 5pt,
   radius: 1pt,
 )[
-  == Traagheid <traagheid>
+  == Linear Inertia <traagheid>
 ]
 
-=== Met een glas water <met-een-glas-water>
+=== Newton's First Law with a glass of water <met-een-glas-water>
 
 #let body = [
-Zet een glas water (of ander object, breekbare objecten hebben de voorkeur) boven op een vel droog papier. Trek het papier langzaam naar de rand van de tafel. Merk op dat het glas gewoon mee gaat en zich niet verzet tegen een constante snelheid. Geef dan, vlakbij de rand, plotseling een ruk. Het glas blijft staan. Wat leerlingen vreesden gebeurde niet tenzij de docent echt erg onhandig is, of de onderkant van het glas nat is. Het glas verzet zich tegen de plotselinge versnelling .... traagheid (inertia)! Traagheid is weerstand tegen versnelling, niet tegen snelheid. Eventueel vervolgen met een YouTube met gedekte tafel en tafelkleed. Nog mooier als je dat echt in de klas doet, of laat leerlingen dit thuis doen en filmpjes delen in de volgende les.
+Take a glass of water (or another object, breakable objects are preferred) and put it on top of a dry A4 sheet of paper. Pull the paper slowly with a constant velocity to the edge of the table. Then suddenly give a yank. The glass stops. What students feared, does not happen, unless the teacher is clumsy or the bottom of the glass was wet. The glass of water resists the sudden acceleration .... *inertia*! Inertia in essence is resistance to acceleration! One could continue by showing a YouTube video of the famous table cloth demo. Even better, try that yourself. It does need practice and is  beyond a simple pocket demo.
+
 
 #image("files/qrcode_fjGiXL4z_MY-425b74f55bccbc4ffc5c0d8dfe250d10.svg", width: 55%)]
 
 #let fig = [#figure(image("files/0c8d874cd9a586748a48f2f08791ad74.jpeg", width: 100%),
-  caption: [Een vel papier en een glas of beker zijn altijd beschikbaar. Maak de demo spectaculair door pas vlakbij de rand een ruk te geven.],
+  caption: [Make the demo spectacular by pulling hard only when the cup is near the end of the table.],
   kind: "figure",
   supplement: [Figure],
 )
@@ -40,13 +41,13 @@ Zet een glas water (of ander object, breekbare objecten hebben de voorkeur) bove
 
 
 
-=== Versnelling en traagheid van water 1 <versnelling-en-traagheid-van-water-1>
+=== Acceleration and inertia of water <versnelling-en-traagheid-van-water-1>
 
-Net als in het vorige experiment, trek een glas of doorzichtige plastic container met water langzaam op een blad A4 over de tafel met constante snelheid. Het wateroppervlak blijft horizontaal. Geef nu een rukje, dat is een versnelling, en het water blijft achter en het wateroppervlak staat schuin. Maar het effect wordt al snel verstoord door golven in een klein glas of container. Het water verzet zich tegen een verandering van snelheid, dat is traagheid, weerstand tegen versnelling. De stand van het wateroppervlak is een indicatie voor de grootte van de versnelling.
+Just like in the previous experiment, pull a glass or better a transparent rectangular container with water on top of an A4 slowly across the table with constant velocity. The water surface remains horizontal. Now accelerate a little, the water will remain behind and the water surface will slant The angle of the water surface is an indication of the magnitude of the acceleration. However, within a second the effect will be disturbed by waves in a small container.
 
-=== Versnelling en traagheid van water 2 <versnelling-vertraging-en-traagheid-van-water-2>
+=== Deceleration and inertia of water<versnelling-vertraging-en-traagheid-van-water-2>
 
-Neem nu een half vol glas en trek het met constante snelheid over de tafel en stop het glas. Wat gebeurt er nu met het water? Het water gaat door met de beweging en stapelt zich op aan de voorkant van het glas. Het water verzet zich tegen de verandering van snelheid: weerstand tegen versnelling, dat is traagheid.
+Now take a half full glass of water and pull it across the table with constant velocity and then stop the glass. What happens to the water now? The water continues its movement and piles up on the front side of the glass. Again the water resists a change in velocity. Inertia is resistance against acceleration but of course also against deceleration.
 
 #v(1em)
 
@@ -55,9 +56,9 @@ Neem nu een half vol glas en trek het met constante snelheid over de tafel en st
   gutter: 1em,
   align: top,
 
-  [ === Met wasknijpers <met-wasknijpers>
+  [ === with clothes pegs <met-wasknijpers>
 
-Scheur een stukje papier zoals in @fig_tearpiece. Kan ik door aan beide uiteinden tegelijk een rukje te geven het middenstuk helemaal los maken? Wat moet ik veranderen om dat wel te kunnen? Het blijkt dat als het middenstuk verzwaard wordt met een paar flinke wasknijpers, dan lukt het wel, dan heeft het middenstuk genoeg inertia (bron: Ruud Brouwer).
+Tear a piece of paper as in @fig_tearpiece. Can I tear both sides of the middle part in one jerk? No, does not work. What should I change in order to be able to tear the two sides off in one jerk? It turns out that if you make the middle part just a bit heavier by putting on a few big paper clips or, better, cloth pegs, it will work (source: my former student Ruud Brouwer).
 
 #figure(
   image("files/qrcode_enduuPXLM9g-c0453e3fd251a621c1a98da46839a345.svg", width: 4cm),
@@ -70,7 +71,7 @@ Scheur een stukje papier zoals in @fig_tearpiece. Kan ik door aan beide uiteinde
     #align(right)[
       #figure(
         image("files/20250513_093759-220f9e785ba6c9705fa81f85836509bc.jpg", width: 9cm),
-        caption: [Wat extra massa in het midden geeft voldoende \ traagheid om beide uiteinden tegelijk te scheuren.],
+        caption: [Some additional mass in the middle makes sure the paper rips at both ends.],
         kind: "figure",
         supplement: [Figure],
       ) <fig_tearpiece>
@@ -80,9 +81,10 @@ Scheur een stukje papier zoals in @fig_tearpiece. Kan ik door aan beide uiteinde
 
 
 
-=== Met een mes en een appel <met-een-mes-en-een-appel>
 
-Steek een mes een stukje in een appel zodat de appel aan het mes blijft hangen. Timmer dan met een hard voorwerp op het lemmet van het mes. Je verwacht dat de appel van het mes zal vallen, maar het mes gaat er juist dieper in, de appel komt niet in beweging, traagheid! Voor een grote groep: neem een meloen of pompoen en een broodmes. Voor de uitleg, traagheid is weerstand tegen versnelling. Denk aan Newton's tweede wet: $F = m a$. Die massa is weerstand tegen versnelling, bij dezelfde kracht krijg je voor zwaardere voorwerpen een veel kleinere versnelling.
+=== With a knife and an apple <met-een-mes-en-een-appel>
+
+Stick a knife in an apple, hold it up so the apple is suspended from the knife. Then start hammering on the bottom of the handle of the knife. The knife goes farther and farther into the apple. If you use a big bread knife, it will come out at the other end. The appel resists acceleration and stays in there. To make it more spectacular, use a bigger knife and use a melon or other big fruit, any relatively heavy fruit will do.
 
 #show figure: set block(breakable: breakableDefault)
 #figure([
@@ -98,7 +100,7 @@ columns: 2,
 )
 ],
   caption: [
-Een bekende demo waarin het mes dieper in de appel gaat bij een klap op het lemmet. 
+A well known demo in which the knife goes deeper into the apple when you hit the handle.
 ],
   kind: "figure",
   supplement: [Figure],
@@ -113,56 +115,55 @@ Een bekende demo waarin het mes dieper in de appel gaat bij een klap op het lemm
   inset: 5pt,
   radius: 1pt,
 )[
-  == Zwaartepunt <zwaartepunt>
+  == Center of mass <zwaartepunt>
 ]
 
 
 
-=== Zwaartepunt vinden <zwaartepunt-vinden>
+=== Finding the center of mass <zwaartepunt-vinden>
 
 #let fig = [#figure(
 image("files/qrcode_RYFsPy8mUbI-a47014a080d52dd06e777b7a106e080e.svg", width: 3cm) ,
 ) 
 ]
 
-#let body = [Neem een meetlat, aanwijsstok, of een bezemsteel. Balanceer die horizontaal op beide wijsvingers (@vid_8). Beweeg vervolgens de wijsvingers naar elkaar toe. Zonder enige controle door de docent (eventueel met blinddoek) zal er steeds maar een wijsvinger tegelijk verschuiven, eerst de één, dan de ander, dan weer de één totdat de wijsvingers elkaar uiteindelijk raken precies onder het zwaartepunt van de lat. Het experiment kan eenvoudig samen met de leerlingen herhaald worden. Ze vinden vast wel iets bruikbaars in hun tas. De uitleg: wanneer een vinger verschuift zal een toenemend deel van het gewicht van de lat juist op die bewegende vinger rusten terwijl de vinger richting zwaartepunt schuift. De wrijving op die vinger neemt toe, de beweging stokt, en dan begint de andere vinger te schuiven. Het proces blijft zich herhalen totdat beide vingers aanlanden in het zwaartepunt. Een interessante variatie is als een kant van de lat verzwaard wordt, bijvoorbeeld met een bordenwisser of willekeurig ander voorwerp. 
+#let body = [Take a 1 m ruler or broom stick, or whatever. Balance it horizontally on your two index fingers wide apart. (@vid_8). Then move the index fingers towards each other. Without any control of the teacher, (s)he could even be blind folded, at any time only one index finger moves, and then the other, they alternate while all the teacher does is moving the hands towards each other. Eventually the fingers meet right under the center of mass of the ruler or stick. The experiment could easily be repeated with the students. They probably have a ruler in their bags or another appropriate object. The explanation: when one finger moves in the direction of the center of mass, an increasing part of the weight of the stick rests on that finger. The friction on the moving finger increases while it decreases on the other finger. Then that finger starts moving and so they alternate until both fingers end up in the center of mass. 
 
-#cite(<ehrlich1994ruler>, form: "prose") beschreef 34 experimenten met linialen zowel kwalitatief als kwantitatief, varierend in niveau van primair tot hoger onderwijs.]
+#cite(<ehrlich1994ruler>, form: "prose") described 34 experiments with rulers, both qualitative and quantitative experiments and varying in level from primary to higher education. ]
 #wrap-content(fig, body, align: right, column-gutter: 1em)
 
 
 #show figure: set block(breakable: breakableDefault)
 #figure(
   image("files/906630c35a79c92c6ade16cc10bba827.jpeg", width: 50%),
-  caption: [Het vinden van het zwaartepunt kun je doen (en voorspellen) met verschillende voorwerpen.],
+  caption: [Finding the center of mass can be done (and predicted) using various materials and distributions of mass.],
   kind: "figure",
   supplement: [Figure],
 ) <vid_8>
 
-=== Laat je leerlingen het zwaartepunt voelen! <laat-je-leerlingen-het-voelen>
+===  Let your students feel the center of mass! <laat-je-leerlingen-het-voelen>
 
-- Laat even met een stokje of liniaal zien wat een zwaartepunt is. Als je het stokje daar ondersteunt, dan is het in evenwicht. Ook even laten zien dat het zwaartepunt verschuift als een kant van de lat of liniaal wordt verzwaard.
-- Dan iedereen op laten staan. De docent staat dwars voor de klas (met zijkant naar leerlingen toe). Voor de zichtbaarheid en de atmosfeer helpt het om op een stoel of tafel te gaan staan. Wij hebben ook een zwaartepunt. Leun voorover, wat voel je? Druk op de voorvoet, kramp in de tenen. Als je nog iets verder naar voren leunt, dan moet je een stap vooruit nemen om niet te vallen. Dan gaat het zwaartepunt (dat wel ergens in je buik zal zitten) over je tenen en dan val je om.
-- Er zijn nog allerlei variaties. Til een been op en strek het naar voren .... nu gaan de schouders naar achteren om te compenseren en ervoor te zorgen dat het zwaartepunt niet over de tenen gaat. Draai nu een kwartslag om dus met het gezicht naar het publiek. Til het rechterbeen op en strek het naar rechts ....de schouders gaan automatisch naar links.
-- Zak door je knieen, een deel van het lichaam gaat naar achteren (achterwerk) een deel gaat naar voren (knieen/schouders). Steeds geeft het lichaam automatisch de correcties die nodig zijn om het zwaartepunt boven de voeten te houden en niet om te vallen. Het lichaam kent zijn natuurkunde! Zie verder #cite(<Berg2007>, form: "prose") en #cite(<showdefysica2>, form: "prose", supplement: [p.200]).
+- First show with a stick or a ruler or a meter stick or even a broom stick what is the center of mass. Put the stick on the table, pull it slowly outwards over the edge. At a certain point it will start to tip over. If you support the stick at that point with your finger, the two sides will balance. That is the center of mass, it is as if all the mass is concentrated there. Human bodies also have a center of mass.  
+- *Stand up all of you. Lean forward. What do you feel? Cramp in your toes? Lean more forward yet, eventually you will have to take a step forward in order not to fall. The center of mass of our body is somewhere in the belly. If that center of mass goes over the toes, then we have to take this step forward to prevent tipping over. Could you lean forward more if you were standing on skies? Yes, your skies are longer toes! Stand up again, lift your leg up (forward), your shoulders will go backward to balance, so that the center of mass is still above your feet. Lift your right leg sideways, now your shoulders will move in opposite direction. Sink through your knees, your brain already knows how to compensate, some parts of the body go forward, some parts go backward*.  
+- Every time your brain knows automatically how to compensate, that is built-in physics! A longer series of demo's on center of mass along with some spectacular powerpoint pictures is available from the author. See also #cite(<Berg2007>, form: "prose") and #cite(<showdefysica2>, form: "prose", supplement: [p.200]).
 
-=== Leerlingen geld op laten pakken van hun tenen zonder te vallen <leerlingen-geld-op-laten-pakken-van-hun-tenen-zonder-te-vallen>
+=== Can students pick up money from their toes without falling? <leerlingen-geld-op-laten-pakken-van-hun-tenen-zonder-te-vallen>
 
-Zet leerlingen op een rij met de hakken tegen de muur (@fig_cm). Leen bankbiljetten van andere leerlingen en leg die voor de tenen van de leerlingen. Als ze die op kunnen rapen zonder te vallen, dan mogen ze het geld houden! Maar dat gaat niet lukken. Bij het voorover buigen komt het zwaartepunt voorbij de tenen en moeten leerlingen een stap vooruit doen om vallen te voorkomen.
+Line up some students with their back and particularly their heels against the wall of the classroom. Then put some money in front of their toes. If they can pick it up without falling, they may keep it. This is impossible to do without their center of mass going beyond their toes and falling.
 
 #show figure: set block(breakable: breakableDefault)
 #figure(
   image("files/02-33CenterOfMass2LR-ad3aaba4cd7a430f5dfae5784da193d7.jpg", width: 60%),
   caption: [
-Het is niet mogelijk om het geld op te pakken met de hielen tegen de muur, in de foto staan de hielen nog niet helemaal tegen de muur.
+Impossible to pick up the money when heels are against the wall. Please note that in the photo heels are not against the wall, they should have been.
 ],
   kind: "figure",
   supplement: [Figure],
 ) <fig_cm>
 
-=== Ongelijke leerlingen <ongelijke-leerlingen>
+=== Unequal student pair <ongelijke-leerlingen>
 
-Neem twee leerlingen van ongelijke lengte/gewicht. Laten ze elkaar vasthouden en dan hun buitenste benen optillen. Totale instabiliteit! Zelfde probleem als in het vorige experiment, het gezamenlijke zwaartepunt moet boven hun standbeen zijn, maar het optillen van de benen verstoort het evenwicht.
+Take two students of unequal size next to each other facing the other students in front of the classroom. They hold each other. Then let them lift their outer legs. Total instability! Same problem, their common center of mass should be above their standing legs in the middle, but lifting their outer legs will disturb the equilibrium.
 
 #pagebreak()
 
@@ -171,13 +172,13 @@ Neem twee leerlingen van ongelijke lengte/gewicht. Laten ze elkaar vasthouden en
   gutter: 1em,
   align: top,
 
-  [ === Hamer en liniaal <hamer-en-liniaal>
+  [ === Hammer and ruler <hamer-en-liniaal>
 
-Leen een hamer en een stok en wat touw of sterk elastiek en construeer de set-up @fig_david. Student lerarenopleiding David van UTwente demonstreerde dit perfect. Kunnen leerlingen het massamiddelpunt (ofwel zwaarterpunt) aanwijzen? 
+Borrow a hammer and a stick and some rope or rubber bands and make the set-up of @fig_david. Teacher education student David from UTwente constructed and explained it perfectly. Can students point out the location of the center of mass?
 
 === Rotatie, zwaartepunt, stabiliteit <rotatie-zwaartepunt-stabiliteit>
 
-Houd een stoel schuin, nog schuiner... er is een punt waarop de stoel kantelt. Neem een eenvoudiger object, bijvoorbeeld een blok hout. Probeer nu de positie waarin het zo schuin staat dat het gaat vallen te relateren aan het zwaartepunt. Neem dan een leerling en zet die met zijn zij naar de klas. Laat zien wat er gebeurt als de leerling voorover leunt totdat zijn zwaartepunt over de tenen gaat (zie eerdere demo). Sta klaar om te helpen bij een zachte landing. Als je de tijd hebt, kun je nog demonstreren dat het zwaartepunt van meisjes lager ligt dan dat van jongens. Als ze een stoel voor zich oppakken, dan vallen jongens gemakkelijker voorover. Details van de instructies staan in #cite(<Liem1987>, form: "prose",supplement: [p326]) en #cite(<showdefysica3>, form: "prose", supplement: [p.90]).
+Tilt a chair, tilt it more, there is a point where the chair will tip over. Take a simpler object, a book or a piece of wood. Try to link the position of the center of mass to the point where the book or block of wood will tip over. Take any other object in the room. When picking up a chair in front of them, boys tip over more easily than girls as their center of mass tends to be higher in the body. Instructions can be found in  #cite(<Liem1987>, form: "prose",supplement: [p326]) and #cite(<showdefysica3>, form: "prose", supplement: [p.90]).
 
   ],
 
@@ -185,7 +186,7 @@ Houd een stoel schuin, nog schuiner... er is een punt waarop de stoel kantelt. N
     #align(right)[
       #figure(
         image("files/02-35CenterOfMass4LR-003ae33533b16324483e8e28adf5d30b.jpg", width: 8cm),
-        caption: [David balanceert een hamer, het\ zwaartepunt moet onder de tafel zijn, niet ernaast.\ Foto gebruikt met toestemming.],
+        caption: [Balancing hammer\ Picture used with permission.],
         kind: "figure",
         supplement: [Figure],
       ) <fig_david>
@@ -200,13 +201,13 @@ Houd een stoel schuin, nog schuiner... er is een punt waarop de stoel kantelt. N
   inset: 5pt,
   radius: 1pt,
 )[
-  == Wrijving <wrijving>
+  == Friction <wrijving>
 ]
 
 
-=== Verschil tussen statische en kinetische wrijving 1 <verschil-tussen-statische-en-kinetische-wrijving-1>
+===  Static and kinetic friction with stick and scarf <verschil-tussen-statische-en-kinetische-wrijving-1>
 
-Leg een doek oneven over een horizontaal georiënteerde buis of bezemsteel. Maak de hoek van de buis steeds groter. Wanneer de doek begint te glijden zal de doek ook naar de zware kant glijden. De statische wrijving is groter dan de kinetische wrijving!
+Take a meterstick, or pvc tube, or any other rod such as the end of a broom. Keep it horizontal and hang over it a piece of cloth (towel, hand kerchief, scarf) such that one end is much longer than the other end but it does not move because of static friction (friction when at rest). Then slowly tilt the rod downward a bit until the cloth starts moving. It will then not just move downward, but also sideways. Friction has now become kinetic (friction when moving) and kinetic friction is smaller than static friction thus insufficient to prevent sliding sideways (source: Ineke Frederik, Dutch physics teacher educator).
 
 #show figure: set block(breakable: breakableDefault)
 #figure([
@@ -222,19 +223,19 @@ columns: 2,
 )
 ],
   caption: [
-Statische versus kinetische wrijving.
+Static vs kinetic friction.
 ],
   kind: "figure",
   supplement: [Figure],
 ) <vid_9>
 
-=== Verschil tussen statische en kinetische wrijving 2 <verschil-tussen-statische-en-kinetische-wrijving-2>
+=== Difference between static and kinetic friction<verschil-tussen-statische-en-kinetische-wrijving-2>
 
-Trek een tas aan slap elastiek over de tafel, dat gaat schoksgewijs. De maximale wrijving bij een voorwerp in rust is groter dan wanneer het in beweging is, dus zodra de statische wrijving overwonnen is, schiet de tas vooruit totdat het elastiek slap staat en dan ligt de tas weer stil.
+Pull a student bag across the table with a piece of elastic band or a weak spring. Movement will be kind of jerky: stick-slip movement. The elastic band or spring will be longer when the bag is not moving and shorter when it moves, showing that static friction is greater than kinetic friction.
 
-=== Met papier en boeken <met-papier-en-boeken>
+=== Paper and books <met-papier-en-boeken>
 
-Neem een half A4 vel papier, leg het tussen de pagina's van een gesloten boek, trek eraan. Je trekt het gemakkelijk uit het boek. Neem nu 10 van die halve A4 velletjes en leg ze om en om tussen de pagina's van een boek, dus bijvoorbeeld de eerste tussen pagina's 72 en 73, de tweede tussen pagina's 74 en 75, enzovoort. Laat ze iets uitsteken. Probeer dan de 10 velletjes tegelijk uit het boek te trekken. Dat is lastig.
+Take one half A4 and put it between the pages of a closed book, pull it. It is easy to pull it out. Now take 10 of these half A4 pieces of paper and put them each between different pages. Try to pull out all 10 at once. That is difficult.
 
 #show figure: set block(breakable: breakableDefault)
 #figure([
@@ -250,20 +251,20 @@ columns: 2,
 )
 ],
   caption: [
-De wrijving hangt af van het de grootte van het aantal velletjes. 
+Friction depends on the number of sheets.
 ],
   kind: "figure",
   supplement: [Figure],
 ) <vid_10>
 
 #pagebreak()
-=== Met boeken <met-boeken>
+=== With books interleaved <met-boeken>
 
-Als leerlingen echt even een time-out van denken moeten hebben, laat ze dan de pagina's van twee boeken om en om in elkaar leggen. De boeken kunnen niet uit elkaar getrokken worden, wrijving! Bekend is natuurlijk de ideale versie van deze proef waarin je twee telefoonboeken (wie kent ze nog...) in elkaar vlecht met pagina's om en om en met een handvatconstructie. Twee sterke mensen kunnen die boeken niet uit elkaar trekken, maar dat is geen broekzak demo meer.
+When students really need a time-out, let them then interleave the pages of two books. The books cannot be pulled apart. Well-known is of course the ideal version of this experiment where two traditional telephone directories are interleaved and handles are attached to the books. Two strong people cannot pull them apart, but that is not a pocket demo anymore, but it would fit in 2 minutes if the teacher shows a YouTube version.
 
-=== Wrijving en normaalkracht <wrijving-en-normaalkracht>
+=== Friction and normal force <wrijving-en-normaalkracht>
 
-Hewitt's vraag (zie @fig_hewit) kan prachtig worden beantwoord met een demonstratie van een halfvol glas water op een schuin oppervlak van een tafel die aan een kant iets omhoog wordt getild, zo dat het glas net niet in beweging komt. Laat even voorzichtig zien dat het glas bij een schuinere stand van de tafel in beweging komt. Vraag leerlingen wat er gebeurt als je er water bij schenkt (bijvoorbeeld kiezen uit alternatieve antwoorden van @fig_hewit). Schenk er dan water bij. Het glas blijft staan.
+Paul Hewitt's question (see @fig_hewit) can be answered with a beautiful demonstration of a half full glass of water on the slanting surface of a table lifted a bit on one side, such that the glass just does not start sliding down. Show carefully that the glass will slide if you lift the table just a bit more. Then ask students what will happen if you will add water to the glass (for example, let them choose from the options in  @fig_hewit). Then add water, the glass remains at rest! 
 
 #show figure: set block(breakable: breakableDefault)
 
@@ -282,8 +283,8 @@ Hewitt's vraag (zie @fig_hewit) kan prachtig worden beantwoord met een demonstra
     supplement: [Grid],
   ), 
   caption: [
-    Hewitt publiceert elke maand een figuring physics vraagstuk in The Physics Teacher. 
-    Illustratie geplaatst met permissie. 
+    Hewitt publishes a figure in The Physics Teacher every month. 
+    Illustration placed with permission. 
     (https://pubs.aip.org/aapt/pte/article-abstract/47/7/410/275716/BUCKET-ON-THE-ROOF?redirectedFrom=PDF)
   ],
   kind: "figure",
@@ -292,16 +293,13 @@ Hewitt's vraag (zie @fig_hewit) kan prachtig worden beantwoord met een demonstra
 
 
 
+=== Coefficient of friction <wrijvingsco-ffici-nt>
 
+The previous experiment can be used to measure the static coefficient of friction. Measure the angle of the table surface with the horizontal in the position where the glass just does not slide. The angle can be easily measured with a standard mobile phone app. The coefficient of friction is the tangent of the angle of the table surface with the horizontal.
 
+=== Friction and heat  <en-warmte>
 
-=== Wrijvingscoëfficiënt <wrijvingsco-ffici-nt>
-
-Met bovenstaand experiment is ook eenvoudig de statische wrijvingscoëfficiënt te bepalen. Met een mobiele telefoon op de tafel meet je de helling waarbij het glas net niet in beweging komt. De wrij-vingscoëfficiënt is gelijk aan de tangens van de hellingshoek.
-
-=== En warmte <en-warmte>
-
-Leerlingen wrijven in hun handen en voelen de warmte. Er zijn heel veel andere voorbeelden waar wrijving leidt tot hitte, bijvoorbeeld bij boren en bij de banden bij autorijden, voel maar eens voor en vlak na een ritje.
+Students rub their hands and feel the heat. Work converted into heat, or in a perhaps better formulation: the work involved in rubbing the hands increases the thermal energy (also called internal energy) of the skin.
 
 #pagebreak()
 
@@ -311,14 +309,14 @@ Leerlingen wrijven in hun handen en voelen de warmte. Er zijn heel veel andere v
   inset: 5pt,
   radius: 1pt,
 )[
-  == Krachten
+  == Forces
 ]
 
-=== Actie-Reactie visualisatie oefening <actie-reactie-visualisatie-oefening>
+=== Action versus reaction visualization exercise <actie-reactie-visualisatie-oefening>
 
-Rek een stuk elastiek uit, kracht van 'vinger op elastiek' is kracht van 'elastiek op vinger'. Let op, actie en reactie werken altijd op verschillende voorwerpen! Daarom moeten leerlingen krachten labelen als  $F_("vinger op elastiek")$ en $F_("elastiek op vinger")$ om duidelijk de twee betrokken objecten te onderscheiden. Je kunt ook twee leerlingen voor de klas zetten, handen op elkaar en duwen maar op de plaats blijven (statisch): actie = - reactie. Vervolgens duwen totdat een leerling in beweging komt. Hoe zit het dan met actie=-reactie oftewel, is nu $"actie" = -"reactie"$ of $F_("leerling_A op leerling_B") = -F_("leerling_B op leerling_A")$? Dat geldt nog steeds, maar om te zien waarom een leerling in beweging komt, moet je alle krachten op die ene leerling optellen. Voor leerling A is dat dus: $F_("leerling_A op leerling_B") + F_("wrijving vloer op leerling_B")$. Bedenk dat die $F_("wrijving: vloer op leerling_A")$ tegengesteld gericht is aan de $F_("leerling_B op leerling_A")$ en dus uiteindelijk een min-teken krijgt. Maar als leerling A het niet houdt, dan is het vaak een kwestie van omver geduwd worden. Dan spelen ook krachtmomenten een rol.
+To point out the relevant forces and show what is meant by action = - reaction, not to proof it: a rubber band or piece of elastic band can always be found even in a bare classroom. A student may have a rubber band around a lunch box. Stretch it with your finger. The force of the finger on the elastic band equals the force of the elastic band on the finger. Point out that action and reaction always work on different objects. That's why we want students to properly name forces as $F_("finger on elastic band")$ and $F_("elastic band on finger")$. The teacher can also put two students in front of the class, each with one hand pushing the hand of the other student but not moving. Then one student will push so hard that the other has to move back. Is now still $"action" = - "reaction"$ or $F _("student_A on student_B") = -F_("student_B on student_A")$? Yes it is, but to understand why student **B** is moving backwards, one has to add the forces **on student B only**: > $F_("student_A on student_B") + F_("friction floor on student_B")$  Remember that $F_("friction floor on student_B")$ has a direction opposite to $F_("student_B on student_A")$. But if student A cannot hold on and is displaced, it is often a matter of being pushed over, thus of moments of force (torque).
 
-Als 14-jarige won Ed ooit een touwtrekwedstrijd van sterkere en zwaardere jongens. Door zijn zwaartepunt dicht bij de grond te houden kon hij minder gemakkelijk omvergetrokken worden en had hij zowel handen als voeten op de grond om wrijving te vergroten.
+As a 14 year-old Ed once won a tug of war from boys who were stronger and heavier. By keeping his center of mass close to the ground he could not be pulled over easily and could use both hands and feet to increase friction. 
 
 #grid(
   columns: (1fr, auto),
@@ -326,16 +324,16 @@ Als 14-jarige won Ed ooit een touwtrekwedstrijd van sterkere en zwaardere jongen
   align: top,
 
   [ 
-=== Normaalkracht <normaalkracht>
+=== Normal force <normaalkracht>
 
-Leg een boek op de tafel en duw het over de tafel. Laat leerlingen het ook proberen. Maak dan een stapel boeken (geleend van leerlingen) en duw weer. Het gaat veel moeilijker, je moet veel harder duwen. Wrijving heeft dus iets te maken met het gewicht van de boeken. Leerlingen kunnen op de eigen tafel meedoen, ze hebben vast wel veel boeken in hun tas. Als de normaalkracht al ter sprake is geweest, hoe groter die normaalkracht des te groter de wrijving (wrijving tussen boek 2 en 3 is: $F_w = μ N = μ m g = μ (m_1 + m_2) g$). Zo'n formule kun je dus gemakkelijk even laten voelen!
+Put a book on the table, try to push it across the table. Have a student try. Then make a pile of books (borrowed from students) and try to push. It is much more difficult; the pushing force has to be greater. So friction has something to do with the total mass of the books, or, if the normal force has been discussed, friction is proportional to the normal force exerted by the table on the books. One can have students participate and feel it themselves by having them make their own pile of notebooks or textbooks on their tables or on the writing boards of their seats.
   ],
 
   [
     #align(right)[
       #figure(
         image("files/booksstacked-7f795235ae59094e86acecdb508e3d7a.jpg", width: 6.3cm),
-        caption: [Wat gebeurt er wanneer je horizontaal \ duwt tegen een van de boeken? \ Maakt het uit waar dat boek is in de stapel?],
+        caption: [What happens if you push one of the books? \ Does it matter where it is in the pile?],
         kind: "figure",
         supplement: [Figure],
       ) <fig_booksstacked>
@@ -346,17 +344,15 @@ Leg een boek op de tafel en duw het over de tafel. Laat leerlingen het ook probe
 
 
 
-=== Met boeken <met-boeken-2>
+=== Friction and normal force <met-boeken-2>
 
-Leg vier of vijf leerboeken op je hand en houd die op voor de klas. Houd de wijsvinger van de andere hand voor het bovenste boek. Als ik duw tegen boek \#2 (van boven gerekend), gaan 2 boeken bewegen, 3, of meer? Laat leerlingen stemmen. Dan uitvoeren. De wrijvingskracht is evenredig met de normaalkracht en dus met het gewicht van de bovenliggende boeken. De wrijving van boek \#4 op boek \#3 is groter dan die van boek \#3 op boek \#2, dus boek \#3 schuift niet mee als er tegen \#2 geduwd wordt.
+Take four textbooks and pile them flat on your hand and hold them up. Then with a finger of the other hand you are going to push the top book. Ask for a prediction, if you push the top book, will only the top book slide, or will two or three books slide along? Why? Then show, only the top book will slide. Friction between the second and third book is 2x friction between the first (top) and second,as friction is proportional to the normal force.
 
-De wrijving tussen boek \#2 en \#3 boek is twee keer zo groot als de wrijving tussen boek \#1 (bovenste) en boek \#2, omdat wrijving evenredig is met de normaalkracht.
 
-=== Met helling <met-helling>
+=== Friction and inclined plane <met-helling>
+Tilt the instructor's table using an object under one of the legs or using a student to hold one side of the table up. Put anything round on the table (borrow some candy from students, or a coin, or a marble). The round object will accelerate down the table surface. Put a book on the table. What keeps it there? Friction.
 
-Zet de docenttafel of een leerling tafel schuin door iets aan een kant onder de poten te leggen of laat een leerling een kant optillen. Leg iets ronds op de tafel, leen bijvoorbeeld wat snoep van een leerling, de docent kan het later opeten. Het ronde object (bv. Pepermunt of een Euro of een knikker) beweegt versneld van de tafel af. Leg een boek op de tafel. Het blijft liggen. Wat zorgt ervoor dat het boek blijft liggen? 
-
-Til een kant van de tafel iets hoger. Het boek blijft nog liggen. Is de grootte van de wrijving nog steeds hetzelfde? Zet de tafel nog schuiner, nu begint het boek te bewegen. Waarom? Maak verschil tussen _actuele_ wrijving ($m g sin (alpha)$) en _maximale_ wrijving ($F_max = μ_s med m g cos (alpha)$). De docent kan zelfs illustreren hoe wrijvingscoefficienten worden bepaald door de hoek te meten waarbij het boek gaat schuiven $μ_(s t a t i s c h) = tan (alpha_s)$ waar $alpha_s$ de hoek is waarbij het boek begint te schuiven en dynamische wrijving met $μ_(d y n a m i s c h) = tan (alpha_d)$ waarbij $alpha_d$ de hoek is waarbij het boek met constante snelheid schuift als het al in beweging is. Dynamische wrijving is kleiner dan statische. Zie ook de elastiek demo.
+Increase the tilt, the book does not move yet. Is the magnitude of the friction still the same? Tilt more yet, the book starts moving. Why? Make sure to distinguish between *actual* friction ($m g sin (alpha)$) and *maximum* friction ($F_max = μ_s med m g cos (alpha)$). The instructor can even illustrate how friction coefficients are measured by taking the static friction coefficient equal to: $μ_(s t a t i c) = tan (alpha_s)$ where $alpha_s$ is the tilt angle when the book is just about to slide. The angle can be measured with a mobile phone. Dynamic friction occurs when the book is sliding and in theory the coefficient can be determined at the angle where sliding occurs at constant speed: $μ_(d y n a m i c ) = tan (alpha_d)$, in practice there may be slip-stick motion.
 
 #v(1em)
 
@@ -366,9 +362,9 @@ Til een kant van de tafel iets hoger. Het boek blijft nog liggen. Is de grootte 
   align: top,
 
   [ 
-=== Sterkte van profielen <sterkte-van-profielen>
+=== Strength of profiles<sterkte-van-profielen>
 
-Leg een bankbiljet of papier op twee viltstiften. Hoe moet je het papier of een bankbiljet vouwen opdat het zoveel mogelijk munten kan dragen? Twee vouwen helpen al. Een stapeltje papiertjes met vouwen kan meer munten dragen. Een ribbelprofiel vouwen doet het nog beter, dat zien we ook in karton en dakplaten. Een mooie serie demo's en vergelijking met producten zoals karton en triplex is te zien op #link("https://www.youtube.com/watch?v=qFZGmHbjLSM")[YouTube]#footnote[#link("https://www.youtube.com/watch?v=qFZGmHbjLSM")[https://www.youtube.com/watch?v=qFZGmHbjLSM]]
+Put a banknote on two markers. How can you fold the banknote such that it can carry a load of many coins? Two folds already help a lot. If you pile more banknotes on top of each other, then they can carry many coins! Then try more folds, corrugated banknotes are very strong. Think also about all the roofing materials that have corrugated shapes rather than being flat, for example roof tiles and metal roof sheeting. A nice series of demos and comparison with carton and other materials can be seen on #link("https://www.youtube.com/watch?v=qFZGmHbjLSM")[YouTube]#footnote[#link("https://www.youtube.com/watch?v=qFZGmHbjLSM")[https://www.youtube.com/watch?v=qFZGmHbjLSM]]
 
   ],
 
@@ -376,7 +372,7 @@ Leg een bankbiljet of papier op twee viltstiften. Hoe moet je het papier of een 
     #align(right)[
       #figure(
         image("files/02-31StrengthOfProfi-c725a33a5236d677876e1ada2d7774c7.jpg", width: 6cm),
-        caption: [Hoe kun je een briefgeld zo vouwen \ dat het een lading van veel munten kan dragen?],
+        caption: [How can you fold the banknote such \ that it can carry a load of many coins?],
         kind: "figure",
         supplement: [Figure],
       ) <fig_fold>
@@ -384,31 +380,31 @@ Leg een bankbiljet of papier op twee viltstiften. Hoe moet je het papier of een 
   ],
 )
 
-=== Asymmetrische eigenschappen, wrijving van menselijke haar <asymmetrische-eigenschappen-wrijving-van-menselijke-haar>
+=== Asymmetry in properties, friction of human hair <asymmetrische-eigenschappen-wrijving-van-menselijke-haar>
 
-Vraag iemand met lange haren om een haar of stel voor dat elk leerlingpaar een haar neemt van een van de twee hoofden van het paar. Houd de haar vast tussen duim en wijsvinger van de ene hand terwijl de duim en wijsvinger van de andere hand langs de haar schuiven. Voel de wrijving. Keer dan de richting van schuiven om. De grootte van de schuifwrijving blijkt richtingsafhankelijk!
+Ask a hair from a long-haired girl or propose that each student pair takes a hair from one of the two heads. Hold one end between thump and index finger of one hand, and slide with the other thump and index finger along the hair. Then slide in the other direction. It turns out that the friction of the hair is dependent on the direction of the sliding of thump/index finger!
 
-=== Kracht vs druk <druk-en-oppervlak>
+=== Pressure and surface area <druk-en-oppervlak>
 
-Neem een pen of potlood. Druk eerst de scherpe punt (klein oppervlak) op je hand dus grote druk, en druk dan met ongeveer dezelfde kracht de top van het potlood (groot oppervlak) of de pen op je hand. Dit laat duidelijk het verschil tussen druk en kracht zien. Leerlingen moeten meedoen met hun eigen pen om het zelf te voelen.
+Take a pencil or ballpoint, press the tip (small surface area) on the inside of your hand, now press the opposite end on your hand (large surface area). The force could be the same, but the pressure is definitely different.
 
-=== Botsingen en voorkomen van schade: eieren gooien <botsingen-en-voorkomen-van-schade-eieren-gooien>
+=== Collisions and preventing damage: egg throw<botsingen-en-voorkomen-van-schade-eieren-gooien>
 
 #grid(
   columns: (1fr, auto),
   gutter: 1em,
   align: top,
 
-  [ Heeft iemand een ongekookt ei? Dit vind je misschien niet in een kaal lokaal, dan maar niet vergeten dit van huis mee te nemen. Laat leerlingen een handdoek of trui of jas, of gordijn ophouden zo dat het grootste deel bijna verticaal is en er onderaan een gootje is. Dan gooit de docent, of een leerling met volle kracht een ei in de handdoek of jas (@fig_throw). Het ei zal niet breken. Herhaal het nog een keer. Er zijn twee principes:
+  [ Anybody has a raw (unboiled) egg? Now this is something you might not have in a bare classroom, but then don't forget to bring it from home. Have students hold up a towel, a coat, or any piece of textile, or the curtains of the classroom window, such that most of it is almost vertical but the bottom is folded to create a gutter. Then throw the egg full force into that. (@fig_throw). It will survive, it will not break. There are two principles at work.
 
-1. de remkracht wordt door de handdoek gespreid over het hele ei, en
+1. The force that decelerates the egg is spread over the surface of the egg, rather than applied at one point, and
   ],
 
   [
     #align(right)[
       #figure(
         image("files/02-45EggThrow-86a4fb7bb8f9e412414c3897fbc2c0df.jpg", width: 7.3cm),
-        caption: [Gooi een ongekookt ei in een handdoek of jas. \ Het breekt niet.],
+        caption: [Throw an unboiled egg without breaking it.],
         kind: "figure",
         supplement: [Figure],
       ) <fig_throw>
@@ -416,13 +412,14 @@ Neem een pen of potlood. Druk eerst de scherpe punt (klein oppervlak) op je hand
   ],
 )
 
-2. er is een lange remweg en lange remtijd want de handdoek beweegt nog mee.
+2. the decelerating force is spread in time as the towel or curtain moves along with the egg.
 
-Deze twee principes spreiden de remkracht in ruimte en tijd waardoor de kracht minder is. Dat is gemakkelijk te zien in $p = m v = F t$. De impuls gaat van $m v$ naar nul. Als de remtijd $t$ groter is, dan is remkracht $F$ kleiner. Zelfde met $E_("kin") = 1 / 2 m v^2 = F s$. De kinetische energie gaat van $1 / 2 m v^2$ naar nul. Als de remweg $s$ langer is, dan is de kracht $F$ kleiner.
+These two principles spread the braking force in space and time thus reducing the force. This is easy to see i $p = m v = F t$. The momentum goes from $m v$ to zero. If the braking time $t$ is greater, the $F$ will be smaller. Same with $E_("kin") = 1 / 2 m v^2 = F s$.  The kinetic energy goes from $1 / 2 m v^2$ to zero. If braking takes place over a longer distance $s$, then the braking force $F$ will be smaller.
 
-=== Breken of niet? Beschermen van fragiele dingen <breken-of-niet-beschermen-van-fragiele-dingen>
+=== Breaking or not? Protecting delicate objects<breken-of-niet-beschermen-van-fragiele-dingen>
 
-Kijk rond naar voorwerpen die kunnen breken als je ze op een stenen vloer laat vallen. Zoek vervolgens naar voorwerpen die krachten kunnen spreiden en remweg en/of remtijd kunnen vergroten zoals een jas, een kussen, of trek je trui uit. Misschien is er zelfs schuimrubber in de buurt. Dit kan worden gevolgd door een discussie over hoe breekbare voorwerpen (of je telefoon) worden verpakt. Hoe zorgen de meisjes dat kosmetische flesjes in hun tas niet breken? Kun je dit verklaren met de twee principes: spreiding van krachten en verlenging van de remweg?
+Look around for something that can break if dropped on a stone floor. Then look for things that can prevent that using the two principles. For example, pillows, not part of a bare classroom, but perhaps available in the school. Or make a pile of some student coats or other clothing. There may be some foam somewhere. Then drop a glass or an egg. How are breakable objects usually packaged in stores? Students will give examples and even may have some in their bags. How do girls make sure their cosmetic flasks do not break in their bags?
+
 
 
 
@@ -434,29 +431,31 @@ Kijk rond naar voorwerpen die kunnen breken als je ze op een stenen vloer laat v
   inset: 5pt,
   radius: 1pt,
 )[
-  == Kinematica <kinematica>
+  == Kinematics  <kinematica>
 ]
 
-=== Beweging visualiseren
-Natuurlijk had je een bewegingssensor en computer klaargezet moeten hebben, maar je was te laat. Geen nood, zelf lopen en leerlingen laten schetsen gaat zeker zo goed.
+=== Visualizing motion
+Of course you should have prepared a motion sensor and computer, but you were too late. No problem, letting your students graph the teacher's motions in front of them and with immediate teacher diagnostic assessment and feedback will do equally well or better.
+Walk across the front of the room and let students sketch distance vs. time graphs for each motion.
 
-Loop voor de klas:
++ at constant speed, 
++ at a higher speed, 
++ accelerated and decelerated, 
++ stopping and going,
++ walking forward and backward,
++ etc.  
 
-+ met constante snelheid,
-+ met een hogere snelheid,
-+ versneld en vertraagd,
-+ stoppen en starten. \
-en laat leerlingen positie–tijd en snelheid–tijd diagrammen schetsen.
 
-Zodra leerlingen schetsen, loop langs, ontdek hun moeilijkheden met de taak en reageer direct individueel of plenair. Heerlijk om te doen want progressie is zeer zichtbaar. Lopen met constante snelheid, lopen met achtereenvolgens twee verschillende snelheden, stilstaan. Lopen heen-en-terug waarbij leerlingen vaak langs dezelfde grafieklijn terug willen, maar dat is terug in de tijd! Het kan ook omgekeerd, geef een grafiek en vraag een leerling die te lopen met instructies van klasgenoten. Zie literatuurverwijzing #cite(<Berg2000a>) voor details of vraag een kopie bij de auteur.
+As soon as students are sketching, walk around the classroom. Make sure to look at the resulting student graphs, discover conceptual errors, and react individually or in plenary, and give students a chance to do it correctly in the next walking exercise. This is very enjoyable for teacher and students as progress is very visible. Typical student mistakes are well known and useful to confront #cite(<Berg2000a>). For example, in walking forward and backward students want to go back along the same graph, but that is going back in the time! One can also reverse the exercise, give students a graph, ask one student to perform the motion in front with instructions of classmates.
 
 #tipBlock[
-Leerlingen moeten direct schetsen en niet hun tijd verdoen met een volmaakt coördinatenstelsel tekenen.
+Students should right away start sketching the graphs and not waste time on drawing and perfecting the axes of the coordinate system.
 ]
 
-=== Relatieve beweging <relatieve-beweging>
+=== Relative motion <relatieve-beweging>
+Student *A* walks with a low constant velocity in front of the class from left to right. student *B* starts later, walks faster and overtakes student *A*. #emph[At the moment that *B* is next to *A*, are the velocities the same or different?] 
 
-Leerling *A* loopt met constante snelheid rustig voor de klas van links naar rechts en leerling *B* loopt met hogere constante snelheid, haalt  *A* in. #emph[Wanneer  *B* naast *A* is, zijn de snelheden dan gelijk of verschillend?] Rare vraag zul je denken, maar er is een wijdverbreid misconcept dat op het moment van inhalen niet alleen de posities maar ook de snelheden gelijk zouden zijn. In een Amerikaanse rechtszaak over een verkeersongeval werd deze mening zelfs door de rechter verkondigd. Mocht blijken dat geen enkele leerling dit fout doet, dan doet u deze demo nooit meer.
+Strange question you will think, but some people will answer equal (misconception). In a traffic court case in the USA this opinion was even espoused by a judge. If none of your students go wrong here, then never do this demo again. Also have your students draw position time diagrams for A and B in the same graph (see the previous demo).
 
 #pagebreak()
 
@@ -466,11 +465,11 @@ Leerling *A* loopt met constante snelheid rustig voor de klas van links naar rec
   inset: 5pt,
   radius: 1pt,
 )[
-  == 'Vrije val'
+  == 'Free fall'
 ]
-=== Vrije val onafhankelijk van massa <vrije-val-onafhankelijk-van-massa>
+=== Free fall independent of mass  <vrije-val-onafhankelijk-van-massa>
 
-Neem een grote en een kleine steen, of een 5 cent en een €2 munt, of breek een krijtje in een klein en een groot stuk en houd deze tussen duim en vingers zo dat de onderkant op dezelfde hoogte is. Vraag leerlingen te voorspellen (met een onderbouwing) welk steentje het eerst de grond zal raken als beide tegelijk worden losgelaten. Laat vallen en herhaal tot iedereen het eens is over de observatie (zien èn horen). Verklaar. Voor een gedetailleerde beschrijving in PEOE-format, zie Showdefysica #cite(<showdefysica1>, supplement: [p16-18]).
+Take a big and a small pebble or a 5 cent and a Euro 2 coin, or break a piece of chalk into a small and a big piece and keep them between thumb and index finger such that the lowest ends are at the same level. Ask students to predict which one will hit the floor first if released simultaneously. Discuss predictions and reasons. Then let go, repeat until all observers agree. Explain. Alternatively use big and small coins or stones on your flat hand and pull your hand away from under the stones. For a moredetailed description, see #cite(<showdefysica1>, supplement: [p16-18], form: "prose").
 
 #show figure: set block(breakable: breakableDefault)
 #figure([
@@ -486,34 +485,34 @@ columns: 2,
 )
 ],
   caption: [
-Kunnen we onze handen versnellen met meer dan g? 
+Can we accelerate our hands more than g? 
 ],
   kind: "figure",
   supplement: [Figure],
 ) <vid_1>
 
-=== Kunnen we onze handen versnellen met meer dan g? Laat zien! <kunnen-we-onze-handen-versnellen-met-meer-dan-g-laat-zien>
+=== Can we accelerate our hands more than g? Show!? Laat zien! <kunnen-we-onze-handen-versnellen-met-meer-dan-g-laat-zien>
 
-Kunnen we onze handen versnellen met meer dan $g$? Stel deze vraag, laat leerlingen antwoorden, goede kans dat ze interessante voorstellen hebben voor een experiment. Eenvoudig, houd je hand vlak met een steen erop of een ander voorwerp, beweeg de hand dan snel naar beneden. De steen of het andere voorwerp is langzamer, er is ruimte tussen de steen en de hand.  Leerlingen kunnen dit nadoen op hun stoel met een willekeurig voorwerp. Zorg ervoor dat de hand alleen naar beneden wordt versneld en niet eerst naar boven.
+Ask the question, let students answer, good chance they come up with a matching experiment. Easy actually, hold your hand flat with a stone or anything on it, then move the hand quickly down. The stone or other objects will be slower, there will be space between the objects and your hand. Students can do this in their seats. Make sure the hands are only accelerated down and not first up.
 
 
 #v(1em)
 
-=== Val en luchtweerstand <val-en-luchtweerstand>
+=== Fall and Air Drag  <val-en-luchtweerstand>
 #grid(
   columns: (1fr, auto),
   gutter: 1em,
   align: top,
 
   [ 
-Laat een blad papier vallen, dat valt langzaam en fladdert. Maak dan een prop, deze valt sneller, maar net ietsje langzamer dan een steen. Neem vervolgens een dubbelgevouwen A4, leg het op een boek en laat het geheel vallen, @fig_908. Papier en boek komen tegelijk aan, zelfs als je van het papier een dakje vouwt en er lucht onder zit. We hebben die vacuümbuis met een veertje en een stukje lood die onder vacuum condities gelijk vallen helemaal niet nodig! Je moet wel de opbouw van je onderwijs-leergesprek met leerlingen goed doordenken, hoe betrek je ze optimaal in voorspellen en verklaren?
+Now let a sheet of paper drop. It swirls and drops slowly. Then crumple it, it drops almost as fast as a coin. Now take a double folded A4, and put it on top of a book and drop the book, @fig_908. Paper and book will reach the floor at the same time! This happens even if you fold the paper in a tent shape so there is some air between the middle of the paper and the book. No need for the awkward vacuum tube to show that feather and lead ball fall equally fast. Do think about how to do this demo step-by-step with optimal cognitive involvement of students.
   ],
 
   [
     #align(right)[
       #figure(
         image("files/boekval.jpg", width: 5.5cm),
-        caption: [Vallen met $g$,\ langzamer of sneller?],
+        caption: [What will happen if you \ drop a book with a sheet of paper on top of it?],
         kind: "figure",
         supplement: [Figure],
       ) <fig_908>
@@ -522,9 +521,9 @@ Laat een blad papier vallen, dat valt langzaam en fladdert. Maak dan een prop, d
 )
 
 
-=== Vloeistof wrijving <vloeistof-wrijving>
+=== Friction in liquids <vloeistof-wrijving>
 
-In lucht vallen grote en kleine stenen met dezelfde versnelling $g$, over korte afstanden is luchtwrijving meestal verwaarloosbaar. Zou dat ook zo zijn wanneer de stenen door water vallen? Zou je dat (kwalitatief) kunnen onderzoeken in een aquarium of emmer water? Neem stenen met een verschillende oppervlak/massa verhouding.
+In air small and big pebbles usually fall with the same acceleration g. Over short distances air friction can be neglected. Would that also be the case when stones fall in water? Could you investigate that in an aquarium or a pale of water? Take stones with a different surface to mass ratio.
 
 === Onderzoek naar val met wrijving  <papieren-bakjes>
 

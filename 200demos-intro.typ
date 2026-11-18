@@ -8,17 +8,17 @@
   inset: 8pt,
   radius: 3pt,
 )[#align(center)[
-= Waarom demonstreren?!
+= Why demonstrations?!
 ]]
-Dat is een triviale vraag, zeker voor lezers van dit boek. Naast dat demonstreren leuk en inspirerend is voor zowel docent als leerlingen, is er een sterk argument voor het doen van demonstraties volgend uit de leerpsychologie. Richard White, natuurkunde docent en later hoogleraar science education in Australië, bestudeerde elementen van het menselijk geheugen bij de bekende leerpsycholoog Robert Gagné. Van de zeven elementen die hij en Gagné definieerden, waren er drie specifiek voor natuurwetenschappen: _propositions_, zeg maar leerboekteksten, _images_ en _episodes_. Images zijn impressies van de zintuigen, dus zowel visuele beelden als geuren of geluid. Episodes zijn ervaringen of verhalen, je zou deze kunnen voorstellen als videoclips in het geheugen. Het leerpsychologisch effect van demonstraties en practicum is dat leerlingen in hun geheugen _plaatjes_ (images) en _ervaringen_ (episodes, videoclips) ontwikkelen/plaatsen bij vakbegrippen en teksten in ons vak. 
+That is a trivial question, especially for readers of this book. Besides the fact that demonstrating is fun and inspiring for both teachers and students, there is a strong argument for doing demonstrations based on learning psychology. Richard White, a physics teacher and later professor of science education in Australia, studied elements of human memory with the well-known learning psychologist Robert Gagné. Of the seven elements they defined, three were specific to natural sciences: _propositions_, which are like textbook texts, _images_, and _episodes_. Images are impressions from the senses, including visual images as well as smells or sounds. Episodes are experiences or stories; you could think of these as video clips in memory. The learning psychological effect of demonstrations and practicals is that students develop/place _pictures_ (images) and _experiences_ (episodes, video clips) in their memory associated with subject concepts and texts in our field.
 
 #v(1em)
 
-#let body = [ #h(1em) Bijvoorbeeld, bij een vakterm als “transparant” biedt de docent een beeld aan van een raam of een glas water waar licht 'ongehinderd' doorheen schijnt. Bij een leerboek beschrijving van de valbeweging biedt de docent een episode aan van een grote en een kleine steen die van dezelfde hoogte vallen (@vallende_steen) en toch hoorbaar gelijk aankomen, ondanks de menselijke verwachting dat zware voorwerpen wel sneller zullen vallen. Zo gebruiken we demonstraties en practica om images en episodes te creëren en die door slimme didactiek èn goed onderscheid tussen hoofd- en bijzaken in de demonstratie, te integreren in de geheugens van leerlingen. Die episodes kunnen we later weer eenvoudig oproepen bij het leren van de theorie en het oplossen van problemen.]
+#let body = [ #h(1em) For example, in the case of a subject term like "transparent", the teacher provides an image of a window or a glass of water through which light passes unimpeded. In a textbook description of free fall, the teacher provides an episode of a large and a small stone falling from the same height (@vallende_steen) and yet landing at the same time, despite the human expectation that heavier objects will fall faster. Thus, we use demonstrations and practicals to create images and episodes and integrate them through smart didactics and a good distinction between main and secondary points in the demonstration, into the memories of students. These episodes can later be easily recalled when learning theory and solving problems.]
 
 #let fig = [#figure(
   image("files/valsteen.jpg", width: 100%),
-  caption: [Kleine en grote steen tegelijk laten vallen door de hand snel naar onder weg te trekken.],
+  caption: [A small and large stone fall simultaneously when the hand is pulled away.],
   kind: "figure",
   supplement: [Figure],
 ) <vallende_steen>
@@ -26,19 +26,19 @@ Dat is een triviale vraag, zeker voor lezers van dit boek. Naast dat demonstrere
 
 #wrap-content(fig, body, align: right, column-gutter: 1em)
 
-#h(1em) Een ander voorbeeld is het volgende. Bij wrijving laten we leerlingen wrijving voelen door op hun eigen tafel tegen een stapeltje boeken aan te duwen (@stapelboeken). Ze voelen dat de wrijvingskracht ($F = mu m g$) evenredig is met de massa, hoe meer boeken op de stapel, des te groter de wrijving met het tafelblad. Je kunt die formule dus voelbaar maken in de demonstratie. We koppelen in het geheugen een gevoelsimpressie (image) of een ervaring (episode) aan de formule: Bij krachtmomenten houden we bijvoorbeeld een tas met boeken aan de arm verticaal langs het lichaam en vervolgens hangend van een horizontaal uitgestrekte arm. Bij de horizontale arm voel je dan het krachtmoment en de evenredigheid met de lengte van de arm ($M$ = arm $times$ kracht = $r times F$), zie @fig_gesterkt_arm.
+#h(1em) Another example is the following. When discussing friction, we let students feel the friction by pushing against a stack of books on their own desk (@stapelboeken). They feel that the friction force ($F = mu m g$) is proportional to the mass, the more books on the stack, the greater the friction with the desk surface. You can thus make that formula tangible in the demonstration. We connect a sensory impression (image) or an experience (episode) in the memory to the formula: In the case of torque, for example, we hold a bag of books with our arm vertically along our body and then hang it from a horizontally extended arm. On the horizontal arm you then feel the torque and its proportionality with the length of the arm ($M$ = arm $times$ force = $r times F$), see @fig_gesterkt_arm.
 
 #figure(
   image("files/stapelboeken.png",width: 80%),
-  caption: [Wrijvingskracht, meer boeken, grotere massa dus meer wrijving. Je _voelt_ de formule $F = mu m g$ als je de stapel duwt in vergelijking met dat ene boek.],
+  caption: [Friction force, more books, greater mass so more friction. You _feel_ the formula $F = mu m g$ when you push the stack in comparison with that one book.],
   kind: "figure",
   supplement: [Figure],
 ) <stapelboeken>
 
 #v(1em)
-Veel van dit soort demonstraties kosten maar 2 minuten en weinig of geen voorbereiding, maar ze hebben grote meerwaarde voor begrip. *Verreweg de meeste van de hier beschreven demonstraties zijn van dit type, even in twee minuten images en episodes plakken bij vakbegrippen en leerboekteksten.*
+Many of these kinds of demonstrations take only 2 minutes and require little or no preparation, but they have great added value for understanding. *By far most of the demonstrations described here are of this type, just in two minutes pasting images and episodes with subject concepts and textbook texts.*
 
-Om de images verder te ontwikkelen kunnen daar didactische principes als heen-en-weer denken, Predict-Explain-Observe-Explain (PEOE) demonstraties, en concept cartoons voor gebruikt worden.
+To further develop the images, didactic principles such as back-and-forth thinking, Predict-Explain-Observe-Explain (PEOE) demonstrations, and concept cartoons can be used.
 
 #box(
   width: 100%,
@@ -46,23 +46,23 @@ Om de images verder te ontwikkelen kunnen daar didactische principes als heen-en
   inset: 5pt,
   radius: 1pt,
 )[
-== Heen-en-weer denken <heen-en-weer-denken>
+== Thinking back-and-forth <heen-en-weer-denken>
 ]
 
-De essentie van natuurwetenschap is heen-en-weer denken tussen verschijnselen en theorie en modellen voor beschrijving en verklaring van die verschijnselen. In zijn lezingenserie over de kaars laat Faraday (1860) prachtig zien hoe dit heen-en-weer proces didactisch kan verlopen. We zien een brandende kaars (het verschijnsel). Wat brandt er eigenlijk? Vast kaarsvet? Probeer maar aan te steken, het lukt niet. Vloeibaar kaarsvet? Houd de brandende kaars op zijn kop, de vlam dooft uit doordat het vloeibare kaarsvet eroverheen stroomt. Waar is die lont dan voor? Die wordt aangestoken, daardoor smelt en verdampt kaarsvet, het verdampte kaarsvet kan branden en brandt op een paar millimeter afstand van het vloeibare kaarsvet. En zo gaat het proces heen-en-weer van observaties naar theorie en reflectie en dan met nieuwe vragen terug naar het verschijnsel. Zo wordt iteratief kennis opgebouwd. 
- 
-Meer algemeen kunnen we stellen dat er in de natuurwetenschappen twee werelden zijn, een Wereld van Verschijnselen en een Wereld van Ideeën (begrippen, theorieën, modellen). Links (@tweewerelden) is een _Wereld van Verschijnselen_ waarin we observeren, meten, en experimenten doen. Rechts is een _Wereld van Ideeën_ waarin we verschijnselen beschrijven en redeneren met begrippen en modellen om de verschijnselen te verklaren en te voorspellen. De connecties tussen de twee werelden zijn de processen van verklaren, concluderen, vragen formuleren, experimenten ontwerpen, en voorspellen van uitkomsten. 
+The essence of natural science is thinking back and forth between phenomena and theory and models for describing and explaining those phenomena. In his lecture series on the candle, Faraday (1860) beautifully shows how this back-and-forth process can proceed didactically. We see a burning candle (the phenomenon). What is actually burning? Solid candle wax? Try to light it, it doesn't work. Liquid candle wax? Hold the burning candle upside down, the flame goes out because the liquid candle wax flows over it. What is the purpose of the wick then? It is lit, causing the candle wax to melt and evaporate, and the evaporated candle wax can burn and burns a few millimeters away from the liquid candle wax. And so the process goes back and forth from observations to theory and reflection and then with new questions back to the phenomenon. In this way, knowledge is built up iteratively.
+
+Generally, we can say that in the natural sciences there are two worlds, a World of Phenomena and a World of Ideas (concepts, theories, models). On the left (@tweewerelden) is a _World of Phenomena_ where we observe, measure, and conduct experiments. On the right is a _World of Ideas_ where we describe phenomena and reason with concepts and models to explain and predict the phenomena. The connections between the two worlds are the processes of explaining, concluding, formulating questions, designing experiments, and predicting outcomes.
 
 #figure(
   image("files/tweewerelden.png", width: 100%),
-  caption: [Het heen-en-weer denken tussen de Wereld van Verschijnselen en de Wereld van Ideeën is de Wereld van de Wetenschapper. Hier een voorbeeld van zo veel mogelijk waterdruppels op een munt plaatsen: waarom zou het water er niet meteen afglijden?],
+  caption: [Thinking back-and-forth between the World of Phenomena and the World of Ideas is the World of the Scientist. Here is an example of placing as many water droplets as possible on a coin: why wouldn't the water slide off immediately?],
   kind: "figure",
   supplement: [Figure],
 ) <tweewerelden>
 
 
 #v(1em)
-In verklaren en concluderen gaan we van de Wereld van Verschijnselen naar de Wereld van Ideeën/Theorie/Modellen. In vragen formuleren, experimenten ontwerpen, en resultaten voorspellen gaan we van de Wereld van Ideeën naar de Wereld van Verschijnselen. Tenslotte gaan de resultaten van dit heen-en-weer proces via conferentiebijdragen en publicaties naar de Wereld van Wetenschappers waar validatie plaatsvindt met vervolgens nieuwe impulsen voor het heen-en-weer proces.
+In explaining and concluding, we go from the World of Phenomena to the World of Ideas/Theory/Models. In formulating questions, designing experiments, and predicting results, we go from the World of Ideas to the World of Phenomena. Finally, the results of this back-and-forth process go via conference contributions and publications to the World of Scientists where validation takes place, followed by new impulses for the back-and-forth process.
 
 #show table.cell: set text(size: 10pt)
 #show table.cell: set par(leading: 0.6em)
@@ -72,21 +72,21 @@ In verklaren en concluderen gaan we van de Wereld van Verschijnselen naar de Wer
   inset: 10pt,
   align: top,
   table.header(
-    [*Wereld van Verschijnselen*], [*Wereld van Ideeën*],
+    [*World of Phenomena*], [*World of Ideas*],
   ),
   
-[We zien een brandende kaars],	
-[Wat brandt er, vast kaarsvet?],
-[Probeer vast kaarsvet aan te steken, het brandt niet.],
-[Waarom niet? Of is het alleen het vloeibare kaarsvet?],
-[Keer de kaars om en het vloeibare kaarsvet druipt langs de lont en dooft de vlam.],
-[Wat dan? En wat is de functie van de lont? Zou het vloeibare kaarsvet capillair opstijgen in de lont en verdampen en dan vlamvatten?],
-[Doof de kaars, houdt er dan direct een brandende lucifer bij, de vlam springt over naar de kaars! Het kan zelfs op enkele centimeters afstand.],
-[Het lijkt er inderdaad op dat de nog aanwezige kaarsdamp vlamvat. Als je te lang wacht, dan is de damp al gecondenseerd en lukt het niet.]
+[We see a burning candle],	
+[What burns, solid candle wax?],
+[Try to light solid candle wax, it doesn't burn.],
+[Why not? Or is it only the liquid candle wax?],
+[Turn the candle over and the liquid candle wax drips along the wick and extinguishes the flame.],
+[What then? And what is the function of the wick? Would the liquid candle wax capillary rise in the wick and vaporize and then ignite?],
+[Extinguish the candle, hold a burning match near it, the flame jumps to the candle! It can even happen from a few centimeters away.],
+[It seems indeed that the still present candle vapor ignites. If you wait too long, the vapor is already condensed and it doesn't work.]
 
 )
 
-Het heen-en-weer denken kan zichtbaar worden gemaakt via een tabel, bijvoorbeeld voor de brandende kaars. Het is nuttig om dat af en toe bij een demonstratievoorbereiding te doen. Dat dwingt de docent tot explicieter (voor leerlingen) heen-en-weer denken.
+Thinking back-and-forth can be made visible through a table, for example for the burning candle. It is useful to do this occasionally during demonstration preparation. This forces the teacher to think more explicitly (for students) back-and-forth.
 
 #pagebreak()
 
@@ -98,16 +98,16 @@ Het heen-en-weer denken kan zichtbaar worden gemaakt via een tabel, bijvoorbeeld
 )[
 == Predict-Explain-Observe-Explain (PEOE) <POE> 
 ]
-Leerlingen hebben veel voorkennis op grond van ervaring met dagelijkse verschijnselen en eerder leren in school. Het is belangrijk steeds nieuwe kennis te verbinden met die voorkennis. Met demonstraties kan dat door voorspellingen te vragen: wat denk je dat we gaan zien of meten en waarom denk je dat (onderbouwing)? Vraag leerlingen vooral om de voorspelling eerst individueel op te schrijven, of even met een partner te overleggen. Je wilt de voorkennis van *alle* leerlingen activeren en niet alleen van de leerling die een klassikale vraag beantwoordt.  
 
-Er zijn veel verschijnselen waar leerlingen incorrecte voorkennis hebben waar ze toch tamelijk zeker van zijn. Neem bijvoorbeeld het idee dat zware dingen sneller vallen dan lichte - uiteraard in gevallen waar luchtweerstand geen rol speelt. Onze intuïtie zit er nogal eens naast... Juist dan is het dubbel belangrijk dat er voorspeld wordt en leerlingen zich bewust worden van hun neiging fout te voorspellen. 
+Pupils have a lot of prior knowledge based on experience with everyday phenomena and previous learning in school. It is important to always connect new knowledge with that prior knowledge. With demonstrations, this can be done by asking for predictions: what do you think we will see or measure and why do you think that (justification)? Ask students to first write down the prediction individually, or discuss it briefly with a partner. You want to activate the prior knowledge of *all* students, not just the student who answers a class question.
 
-Het individueel formuleren van verwachtingen/voorspellingen op papier en met onderbouwing kan heel snel. Een passende concept cartoon (zie #link(<concept-cartoons>)[paragraaf 3.3] ) kan de drempel naar voorspelling verlagen en het klassikale proces versnellen. Even neutraal inventariseren van leerling ideeën en dan de demo. Alle leerlingen observeren het resultaat van de demonstratie en  betrek je bij het verklaren van het verschil tussen voorspelling en observatie. 
+There are many phenomena where students have incorrect prior knowledge that they are quite sure of. Take, for example, the idea that heavy things fall faster than light ones - obviously in cases where air resistance does not play a role. Our intuition is often off... It is doubly important to predict and make students aware of their tendency to predict incorrectly.
 
-Voorspellen heeft natuurlijk alleen maar zin als leerlingen daadwerkelijk voorkennis hebben van het verschijnsel. Als je ze slechts wilt laten verwonderen over iets, of iets nieuws wilt laten zien, dan is voorspellen niet nodig.
+Individually formulating expectations/predictions on paper and with justification can be done very quickly. A suitable concept cartoon (see #link(<concept-cartoons>)[paragraph 3.3]) can lower the threshold for prediction and speed up the class process. First, neutrally inventory student ideas and then do the demo. All students observe the result of the demonstration and engage in explaining the difference between prediction and observation.
 
-Stappen in de PEOE worden in #link(<tabel_PEOE>)[onderstaande tabel] geïllustreerd met het triviale voorbeeld van een grote en kleine vallende steen. (Zowel de massa als het volume van de stenen zijn verschillend). Veel leerlingen (en hun ouders) verwachten dat een grote steen sneller zal vallen dan een kleine.
+Predicting is only useful if students actually have prior knowledge of the phenomenon. If you just want to amaze them with something or show them something new, then predicting is not necessary.
 
+Steps in the PEOE approach are illustrated in #link(<tabel_PEOE>)[the table below] with the trivial example of a large and small falling stone. (Both the mass and volume of the stones are different). Many students (and their parents) expect that a large stone will fall faster than a small one.
 
 #show table.cell: set text(size: 10pt)
 #show table.cell: set par(leading: 0.6em)
@@ -117,12 +117,12 @@ Stappen in de PEOE worden in #link(<tabel_PEOE>)[onderstaande tabel] geïllustre
   inset: 5pt,
   align: top,
   table.header(
-    [*Stap*],[*Stappen in PEOE*], [*Voorbeeld*],
+    [*Step*],[*Steps in PEOE*], [*Example*],
   ),
 		
-[1], [Laat zien hoe je het experiment gaat uitvoeren of vraag “hoe kan ik onderzoeken of …?” en kom dan met de leerlingen tot een opzet voor de demonstratie en zorg ervoor dat de situatie duidelijk is voor alle leerlingen wanneer ze gaan voorspellen.],[	Ik (docent) heb twee stenen, een grote en een kleine. Hoe kan ik onderzoeken welke het snelste valt?],
-[2], [Predict – Explain: Laat leerlingen individueel hun verwachting opschrijven (voorspellen wat er zal gebeuren) èn de reden daarvoor. Dit kan gewoon in het schrift of op een speciaal werkblad. Het kan ook met meerkeuzevragen in www.Socrative.com of www.plickers.com.], [Ik laat de stenen tegelijk vallen door mijn hand naar beneden weg te trekken (@vallende_steen). Schrijf op, welke steen het eerst de grond zal raken. Leg uit waarom je dat denkt.],
-[3], [Een korte inventarisatie van verwachtingen.  Het belangrijkste is dat leerlingen merken dat er verschillende voorspellingen zijn en meestal met een “redelijke” argumentatie. Doordat ieder een voorspelling met reden heeft opgeschreven (of heeft gestemd op Socrative), kan elke willekeurige leerling gevraagd worden bij te dragen in de discussie in plaats van alleen vrijwilligers.], [Inventarisatie van redenen voor de drie mogelijke voorspellingen (grote, of kleine steen, of gelijk). Resultaat van stemming en eventueel argumenten noteren op het bord.], 
+[1], [Show how you will conduct the experiment or ask “how can I investigate or …?” and then work with the students to develop a plan for the demonstration and ensure that the situation is clear to all students when they are about to make predictions.],[	I (teacher) have two stones, a large and a small. How can I investigate which one falls the fastest?],
+[2], [Predict – Explain: Ket pupils write down their expectation (predict what will happen) and the reason for it. This can be done in their notebook or on a special worksheet. It can also be done with multiple-choice questions in www.Socrative.com or www.plickers.com.], [I let the stones fall simultaneously by pulling my hand down (@vallende_steen). Write down which stone will hit the ground first. Explain why you think that.],
+[3], [A short inventory of predictions. Most important is that students realize there are different predictions and usually with a "reasonable" argumentation. Because each student has written down a prediction with a reason (or has voted on Socrative), any student can be asked to contribute to the discussion instead of only volunteers.], [Inventory of reasons for the three predictions (larger, or smaller stone, or equal). Write the results of the inventory and, perhaps, the arguments on the blackboard.], 
 [4], [Observe: Experiment, laat iedere leerling de eigen observatie opschrijven voordat er discussie is. Wanneer dit niet gebeurt, zullen leerlingen hun observaties “aanpassen” zodra discussie start en worden verschillen in observatie niet duidelijk. Meestal is het mogelijk het experiment te herhalen totdat er overeenstemming is over de observatie of meting.], [De docent gaat op de tafel staan met de twee stenen en laat ze vallen op het tafeloppervlak, of op een plankje op de grond dat goed herrie maakt. Iedereen luistert naar het resultaat. Eventueel 1 of 2 leerlingen er vlak blij om ook de ogen te gebruiken. Herhalen tot allen het eens zijn over het resultaat.],
 [5], [Explain: Leerlingen vragen onderling te overleggen (denken-delen-uitwisselen) over een verklaring van de observatie of meting. In de dan volgende klassikale discussie (stap 6) kan opnieuw elke leerling gevraagd worden bij te dragen.], [Denken-delen-uitwisselen over de vraag of grootte iets te maken heeft met valsnelheid.],
 [6], [Klassikale discussie.], [Klassikale discussie en conclusie dat grootte blijkbaar niets uitmaakt. Zijn er voorbeelden van voorwerpen die niet gelijk vallen?],
